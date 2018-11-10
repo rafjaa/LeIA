@@ -8,11 +8,9 @@ Modo de uso
 Modo de uso
 
 
-
-Citação
--------
-Citação no formato BibTeX:
-
+Citação (BibTeX)
+----------------
+Se você utilizar este projeto em sua pesquisa, considere citar o repositório:
 
 <pre>
 @misc{Almeida2018,
@@ -22,5 +20,17 @@ Citação no formato BibTeX:
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/rafjaa/LeIA}}
+}
+</pre>
+
+
+O léxico VADER original é descrito no _paper_:
+
+<pre>
+@inproceedings{gilbert2014vader,
+  title={Vader: A parsimonious rule-based model for sentiment analysis of social media text},
+  author={Gilbert, CJ Hutto Eric},
+  booktitle={Eighth International Conference on Weblogs and Social Media (ICWSM-14). Available at (20/04/16) http://comp. social. gatech. edu/papers/icwsm14. vader. hutto. pdf},
+  year={2014}
 }
 </pre>
