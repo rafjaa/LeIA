@@ -1,0 +1,58 @@
+absolutamente INCR
+agitadamente INCR
+altamente INCR
+completamente INCR
+consideravelmente INCR
+decididamente INCR
+demais INCR
+enormemente INCR
+especialmente INCR
+excecivamente INCR
+excepcionalmente INCR
+extremamente INCR
+fabulosamente INCR
+fortemente INCR
+fudidamente INCR
+grandemente INCR
+grandiosamente INCR
+incrivelmente INCR
+inteiramente INCR
+intensamente INCR
+majoritariamente INCR
+muito muito INCR
+na moral INCR
+o mais INCR
+particularmente INCR
+pra caramba INCR
+pra valer INCR
+predominantemente INCR
+profundamente INCR
+puramente INCR
+realmente INCR
+substancialmente INCR
+surpreendentemente INCR
+tao INCR
+terrivelmente INCR
+tremendamente INCR
+tão INCR
+algo DECR
+bem pouqinho DECR
+dificilmente DECR
+escassamente DECR
+fracaemnte DECR
+levemente DECR
+mais ou menos DECR
+muito pouco DECR
+ocasionalmente DECR
+parcialmente DECR
+pouco DECR
+pouqinho DECR
+quase DECR
+so o necessario DECR
+superficialmente DECR
+tantinho DECR
+tipo DECR
+um pouco DECR
+um pouqinho DECR
+um tantinho DECR
+um tanto DECR
