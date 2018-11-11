@@ -5,7 +5,38 @@ LeIA (Léxico para Inferência Adaptada) é um fork do léxico e ferramenta para
 
 Modo de uso
 -----------
-Modo de uso
+A biblioteca preserva a API do VADER, e o texto de entrada não precisa ser pré-processado:
+
+<pre>
+from leia import SentimentIntensityAnalyzer 
+
+s = SentimentIntensityAnalyzer()
+
+# Análise de texto simples
+s.polarity_scores('Eu estou feliz')
+#{'neg': 0.0, 'neu': 0.328, 'pos': 0.672, 'compound': 0.6249}
+
+# Análise de texto com emoji :)
+s.polarity_scores('Eu estou feliz :)')
+#{'neg': 0.0, 'neu': 0.22, 'pos': 0.78, 'compound': 0.7964}
+
+# Análise de texto com negação
+s.polarity_scores('Eu não estou feliz')
+#{'neg': 0.265, 'neu': 0.241, 'pos': 0.494, 'compound': 0.4404}
+</pre>
+
+A saída da análise de sentimentos é um dicionário com os seguintes campos:
+
+- <code>pos</code>: porcentagem positiva do texto
+- <code>neg</code>: porcentagem negativa do texto
+- <code>neu</code>: porcentagem neutra do texto
+- <code>compound</code>: valor de sentimento geral normalizado, variando de -1 (extremamente negativo) a +1 (extremamente positivo)
+
+O valor <code>compound</code> pode ser utilizado para descrever o sentimento predominante no texto, por meio dos limites de valores:
+
+- Sentimento positivo: <code>compound >= 0.05</code>
+- Sentimento negativo: <code>compound <= -0.05</code>
+- Sentimento neutro: <code>(compound > -0.05) and (compound < 0.05)</code>
 
 
 Citação (BibTeX)
