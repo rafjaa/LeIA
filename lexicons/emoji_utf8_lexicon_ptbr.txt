@@ -407,29 +407,55 @@
 👩🏽‍🚒	bombeira: tom de pele médio
 👩🏾‍🚒	bombeira: tom de pele meio escuro
 👩🏿‍🚒	bombeira: tom de pele escuro
+👮	policial	
+👮🏻	policial: tom de pele claro
+👮🏼	policial: tom de pele claro médio
+👮🏽	policial: tom de pele médio
+👮🏾	policial: tom de pele escuro médio
+👮🏿	policial: tom de pele escuro
 👮‍♂️	homem policial
+👮‍♂	homem policial
 👮🏻‍♂️	homem policial: tom de pele claro
+👮🏻‍♂	homem policial: tom de pele claro
 👮🏼‍♂️	homem policial: tom de pele claro médio
+👮🏼‍♂	homem policial: tom de pele claro médio
 👮🏽‍♂️	homem policial: tom de pele médio
+👮🏽‍♂	homem policial: tom de pele médio
 👮🏾‍♂️	homem policial: tom de pele escuro médio
+👮🏾‍♂	homem policial: tom de pele escuro médio	
 👮🏿‍♂️	homem policial: tom de pele escuro
+👮🏿‍♂	homem policial: tom de pele escuro
 👮‍♀️	mulher policial
+👮‍♀	mulher policial
 👮🏻‍♀️	mulher policial: tom de pele claro
+👮🏻‍♀	mulher policial: tom de pele claro
 👮🏼‍♀️	mulher policial: tom de pele claro médio
+👮🏼‍♀	mulher policial: tom de pele claro médio	
 👮🏽‍♀️	mulher policial: tom de pele médio
+👮🏽‍♀	mulher policial: tom de pele médio	
 👮🏾‍♀️	mulher policial: tom de pele escuro médio
+👮🏾‍♀	mulher policial: tom de pele escuro médio	
 👮🏿‍♀️	mulher policial: tom de pele escuro
+👮🏿‍♀	mulher policial: tom de pele escuro
 🕵️	detetive
+🕵	detetive	
 🕵🏻	detetive: tom de pele claro
 🕵🏼	detetive: tom de pele claro médio
 🕵🏽	Detetive: tom de pele médio
 🕵🏾	detetive: tom de pele escuro médio
 🕵🏿	detetive: tom de pele escuro
 🕵️‍♂️	homem detetive
+🕵‍♂️	homem detetive
+🕵️‍♂	homem detetive
+🕵‍♂	homem detetive	
 🕵🏻‍♂️	homem detetive: tom de pele claro
+🕵🏻‍♂	homem detetive: tom de pele claro
 🕵🏼‍♂️	homem detetive: tom de pele meio claro
+🕵🏼‍♂	homem detetive: tom de pele meio claro	
 🕵🏽‍♂️	homem detetive: tom de pele médio
+🕵🏽‍♂	homem detetive: tom de pele médio
 🕵🏾‍♂️	homem detetive: tom de pele meio escuro
+🕵🏾‍♂	homem detetive: tom de pele meio escuro	
 🕵🏿‍♂️	homem detetive: tom de pele escuro
 🕵🏿‍♂	homem detetive: tom de pele escuro
 🕵️‍♀️	mulher detetive
@@ -1929,6 +1955,7 @@
 👇🏽	índice da mão traseira apontando para baixo: tom de pele médio
 👇🏾	índice da mão traseira apontando para baixo: tom de pele escuro médio
 👇🏿	índice da mão do dorso apontando para baixo: tom de pele escuro
+✌️	mão da vitória	
 ✌	mão da vitória
 ✌🏻	mão da vitória: tom de pele claro
 ✌🏼	mão da vitória: tom de pele claro médio
