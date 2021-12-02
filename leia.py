@@ -216,6 +216,8 @@ class SentimentIntensityAnalyzer(object):
         """
         lex_dict = {}
         for line in self.lexicon_full_filepath.split('\n'):
+            if len(line) < 1:
+                continue
             (word, measure) = line.strip().split('\t')[0:2]
             lex_dict[word] = float(measure)
         return lex_dict
@@ -227,6 +229,8 @@ class SentimentIntensityAnalyzer(object):
         """
         emoji_dict = {}
         for line in self.emoji_full_filepath.split('\n'):
+            if len(line) < 1:
+                continue
             (emoji, description) = line.strip().split('\t')[0:2]
             emoji_dict[emoji] = description
         return emoji_dict
