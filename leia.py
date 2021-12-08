@@ -14,6 +14,9 @@ import re
 import math
 import unicodedata
 from itertools import product
+import os
+
+PACKAGE_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 
 # Empirically derived mean sentiment intensity rating increase for booster words
 # TODO: Portuguese update
@@ -35,12 +38,14 @@ PUNC_LIST = [
 ]
 
 # Negations (Portuguese)
-NEGATE = [t.strip() for t in open('./lexicons/negate.txt')]
+NEGATE = [t.strip() for t in open(
+    os.path.join(PACKAGE_DIRECTORY, 'lexicons', 'negate.txt')
+)]
 
 # Booster/dampener 'intensifiers' or 'degree adverbs' (Portuguese)
 boosters = []
-for l in open('./lexicons/booster.txt'):
-    parts = l.strip().split(' ')
+for boost in open(os.path.join(PACKAGE_DIRECTORY, 'lexicons', 'booster.txt')):
+    parts = boost.strip().split(' ')
     boosters.append([' '.join(parts[:-1]), parts[-1]])
 
 BOOSTER_DICT = {}
@@ -183,7 +188,19 @@ class SentimentIntensityAnalyzer(object):
     Give a sentiment intensity score to sentences.
     """
 
-    def __init__(self, lexicon_file="./lexicons/vader_lexicon_ptbr.txt", emoji_lexicon="./lexicons/emoji_utf8_lexicon_ptbr.txt"):
+    def __init__(
+            self,
+            lexicon_file=os.path.join(
+                PACKAGE_DIRECTORY,
+                'lexicons',
+                'vader_lexicon_ptbr.txt'
+            ),
+            emoji_lexicon=os.path.join(
+                PACKAGE_DIRECTORY,
+                'lexicons',
+                'emoji_utf8_lexicon_ptbr.txt'
+            )
+    ):
         with open(lexicon_file, encoding='utf-8') as f:
             self.lexicon_full_filepath = f.read()
         self.lexicon = self.make_lex_dict()
@@ -199,6 +216,8 @@ class SentimentIntensityAnalyzer(object):
         """
         lex_dict = {}
         for line in self.lexicon_full_filepath.split('\n'):
+            if len(line) < 1:
+                continue
             (word, measure) = line.strip().split('\t')[0:2]
             lex_dict[word] = float(measure)
         return lex_dict
@@ -210,6 +229,8 @@ class SentimentIntensityAnalyzer(object):
         """
         emoji_dict = {}
         for line in self.emoji_full_filepath.split('\n'):
+            if len(line) < 1:
+                continue
             (emoji, description) = line.strip().split('\t')[0:2]
             emoji_dict[emoji] = description
         return emoji_dict
