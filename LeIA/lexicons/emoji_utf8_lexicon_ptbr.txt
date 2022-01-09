@@ -1,0 +1,3570 @@
+😀	rosto sorridente
+😁	rosto radiante com olhos sorridentes
+😂	rosto com lágrimas de alegria
+🤣	rolando de rir no chão
+😃	rosto sorridente com olhos grandes
+😄	rosto sorridente com olhos sorridentes
+😅	rosto sorridente com suor
+😆	rosto sorridente cerrado
+😉	rosto piscando
+😊	rosto sorridente com olhos sorridentes
+😋	cara saboreando comida
+😎	rosto sorridente com óculos de sol
+😍	rosto sorridente com olhos de coração
+😘	cara mandando um beijo
+🥰	rosto sorridente com 3 corações
+😗	rosto beijando
+😙	beijando rosto com olhos sorridentes
+😚	beijando rosto com olhos fechados
+☺️	rosto sorridente
+☺	rosto sorridente
+🙂	rosto ligeiramente sorridente
+🤗	abraçando, abraçando, abraçando, rosto
+🤩	estrelado
+🤔	cara pensativa
+🤨	rosto com sobrancelha levantada
+😐	rosto neutro
+😑	expressão facial inexpressiva
+😶	cara boca sem saída
+🙄	rosto com olhos revirados
+😏	rosto sorridente
+😣	cara perseverante
+😥	rosto triste mas aliviado
+😮	rosto com boca aberta
+🤐	cara de boca fechada
+😯	rosto silencioso
+😪	cara de sono
+😫	cara cansada
+😴	rosto adormecido
+😌	rosto aliviado
+😛	cara com lingua lingua
+😜	rosto piscando com língua língua
+😝	rosto fechado com língua língua
+🤤	cara babando
+😒	sem graça graça rosto
+😓	rosto abatido com suor
+😔	rosto pensativo
+😕	cara confusa
+🙃	cara
+🤑	cara boca dinheiro
+😲	stunned roast stunned
+☹️	cara carrancuda
+☹	cara carrancuda
+🙁	rosto ligeiramente carrancudo
+😖	cara confusa
+😞	rosto desapontado
+😟	cara preocupada
+😤	rosto com vapor do nariz
+😢	cara chorando
+😭	rosto chorando barulhento
+😦	rosto carrancudo com boca aberta
+😧	rosto angustiado
+😨	cara assustada
+😩	cara cansada
+🤯	cabeça explodindo
+😬	rosto fazendo careta
+😰	rosto ansioso com suor
+😱	rosto gritando de medo
+🥵	cara quente
+🥶	cara fria
+😳	rosto lavado
+🤪	Cara de bobo
+😵	cara tonta
+😡	cara de beicinho
+😠	cara de bravo
+🤬	rosto com símbolo na boca
+😷	rosto com máscara médica
+🤒	rosto com termômetro
+🤕	rosto com cabeça - bandagem
+🤢	cara enjoada
+🤮	cara vomitando
+🤧	cara a espirrar
+😇	rosto sorridente com auréola
+🤠	cara de chapéu de cowboy
+🥳	cara de festa
+🥴	cara tonta
+🥺	cara implorando
+🤥	cara mentirosa
+🤫	calando a boca
+🤭	rosto com a mão sobre a boca
+🧐	rosto com monóculo
+🤓	cara de nerd
+😈	rosto sorridente com chifres
+👿	cara zangada com chifres
+🤡	cara de palhaço
+👹	ogre
+👺	goblin
+💀	crânio
+☠️	caveira e ossos cruzados
+☠	caveira e cruzes
+👻	fantasma
+👽	alienígena
+👾	monstro alienígena
+🤖	robô cara de robô
+💩	pilha de cocô
+😺	gato com cara sorridente
+😸	cara de gato sorridente com olhos sorridentes
+😹	cara de gato com lágrimas de alegria
+😻	cara de gato sorridente com olhos de coração
+😼	cara de gato com sorriso irônico
+😽	beijando a cara do gato
+🙀	cara de gato cansada
+😿	cara de gato chorando
+😾	cara de gato fazendo beicinho
+🙈	veja - não - macaco mau
+🙉	ouvir - não - macaco mau
+🙊	fala - não - macaco mau
+🏻	tom de pele claro
+🏼	Tirei meio claro de pele
+🏽	tom meio pele
+🏾	tom de pele escuro médio
+🏿	tom de pele escuro
+👶	bebê
+👶🏻	bebê: tom de pele claro
+👶🏼	bebê: tom de pele claro médio
+👶🏽	bebê: tom de pele médio
+👶🏾	bebê: tom de pele escuro médio
+👶🏿	bebê: tom de pele escuro
+🧒	criança
+🧒🏻	criança: tom de pele claro
+🧒🏼	criança: tom de pele claro
+🧒🏽	criança: tom de pele médio
+🧒🏾	criança: tom de pele escuro médio
+🧒🏿	criança: tom de pele escuro
+👦	menino
+👦🏻	menino: tom de pele claro
+👦🏼	menino: tom de pele claro
+👦🏽	menino: tom de pele médio
+👦🏾	menino: tom de pele escuro médio
+👦🏿	menino: tom de pele escuro
+👧	garota
+👧🏻	menina: tom de pele claro
+👧🏼	menina: tom de pele claro médio
+👧🏽	menina: Tom, diodo PE
+👧🏾	menina: tom de pele escuro médio
+👧🏿	menina: tom de pele escuro
+🧑	adulto
+🧑🏻	adulto: tom de pele claro
+🧑🏼	adulto: tom de pele claro médio
+🧑🏽	adulto: tom de pele médio
+🧑🏾	adulto: tom de pele escuro médio
+🧑🏿	adulto: tom de pele escuro
+👨	man
+👨🏻	homem: tom de pele claro
+👨🏼	homem: tom de pele claro médio
+👨🏽	homem: tom de pele médio
+👨🏾	homem: tom de pele escuro médio
+👨🏿	homem: tom de pele escuro
+👩	mulher
+👩🏻	mulher: tom de pele claro
+👩🏼	mulher: tom de pele claro médio
+👩🏽	mulher: tom de pele médio
+👩🏾	mulher: tom de pele escuro médio
+👩🏿	mulher: tom de pele escuro
+🧓	adulto mais velho
+🧓🏻	adulto mais velho: tom de pele claro
+🧓🏼	adulto mais velho: tom de pele claro médio
+🧓🏽	adulto mais velho: tom de pele médio
+🧓🏾	adulto mais velho: tom de pele escuro médio
+🧓🏿	adulto mais velho: tom de pele escuro
+👴	velho
+👴🏻	velho: tom de pele claro
+👴🏼	velho: tom de pele claro médio
+👴🏽	velho: tom de pele médio
+👴🏾	velho: tom de pele meio escuro
+👴🏿	velho: tom de pele escuro
+👵	velha senhora
+👵🏻	velhinha: tom de pele claro
+👵🏼	velhinha: tom de pele meio claro
+👵🏽	velhinha: tom de pele médio
+👵🏾	velha: tom de pele meio escuro
+👵🏿	velhinha: tom de pele escuro
+👨‍⚕️	homem médico profissional de saúde
+👨‍⚕	homem médico profissional de saúde
+👨🏻‍⚕️	médico profissional de saúde: tom de pele claro
+👨🏻‍⚕	médico profissional de saúde: tom de pele claro
+👨🏼‍⚕️	médico profissional de saúde: tom de pele claro médio
+👨🏼‍⚕	médico profissional de saúde: tom de pele claro médio
+👨🏽‍⚕️	médico profissional de saúde: tom de pele médio
+👨🏽‍⚕	médico profissional de saúde: tom de pele médio
+👨🏾‍⚕️	médico profissional de saúde: tom de pele médio escuro
+👨🏾‍⚕	médico profissional de saúde: tom de pele médio escuro
+👨🏿‍⚕️	médico profissional de saúde: tom de pele escuro
+👨🏿‍⚕	médico profissional de saúde: tom de pele escuro
+👩‍⚕️	mulher médica profissional de saúde
+👩‍⚕	mulher médica profissional de saúde
+👩🏻‍⚕️	mulher médica profissional de saúde: tom de pele claro
+👩🏻‍⚕	mulher médica profissional de saúde: tom de pele claro
+👩🏼‍⚕️	mulher médica profissional de saúde: tom de pele claro médio
+👩🏼‍⚕	mulher médica profissional de saúde: tom de pele claro médio
+👩🏽‍⚕️	mulher médica profissional de saúde: tom de pele médio
+👩🏽‍⚕	mulher médica profissional de saúde: tom de pele médio
+👩🏾‍⚕️	mulher médica profissional de saúde: tom de pele médio escuro
+👩🏾‍⚕	mulher médica profissional de saúde: tom de pele médio escuro
+👩🏿‍⚕️	mulher médica profissional de saúde: tom de pele escuro
+👩🏿‍⚕	mulher médica profissional de saúde: tom de pele escuro
+👨‍🎓	homem estudante
+👨🏻‍🎓	estudante: tom de pele claro
+👨🏼‍🎓	estudante: tom de pele claro médio
+👨🏽‍🎓	estudante: tom de pele médio
+👨🏾‍🎓	estudante: tom de pele escuro médio
+👨🏿‍🎓	estudante: tom de pele escuro
+👩‍🎓	estudante mulher
+👩🏻‍🎓	estudante: tom de pele claro
+👩🏼‍🎓	estudante: tom de pele claro médio
+👩🏽‍🎓	estudante mulher: tom de pele médio
+👩🏾‍🎓	estudante: tom de pele escuro médio
+👩🏿‍🎓	estudante: tom de pele escuro
+👨‍🏫	professor homem
+👨🏻‍🏫	professor homem: tom de pele claro
+👨🏼‍🏫	professor homem: tom de pele claro médio
+👨🏽‍🏫	professor homem: tom de pele médio
+👨🏾‍🏫	professor homem: tom de pele meio escuro
+👨🏿‍🏫	professor homem: tom de pele escuro
+👩‍🏫	professora
+👩🏻‍🏫	professora mulher: tom de pele claro
+👩🏼‍🏫	professora mulher: tom de pele claro médio
+👩🏽‍🏫	professora mulher: tom de pele médio
+👩🏾‍🏫	professora mulher: tom de pele meio escuro
+👩🏿‍🏫	professora mulher: tom de pele escuro
+👨‍⚖️	juiz homem
+👨‍⚖	juiz homem
+👨🏻‍⚖️	juiz homem: tom de pele claro
+👨🏻‍⚖	juiz homem: tom de pele claro
+👨🏼‍⚖️	juiz homem: tom de pele claro médio
+👨🏼‍⚖	juiz homem: tom de pele claro médio
+👨🏽‍⚖️	juiz homem: tom de pele médio
+👨🏽‍⚖	juiz homem: tom de pele médio
+👨🏾‍⚖️	juiz homem: tom de pele escuro médio
+👨🏾‍⚖	juiz homem: tom de pele escuro médio
+👨🏿‍⚖️	juiz homem: tom de pele escuro
+👨🏿‍⚖	juiz homem: tom de pele escuro
+👩‍⚖️	juiz mulher
+👩‍⚖	juiz mulher
+👩🏻‍⚖️	juiz mulher: tom de pele claro
+👩🏻‍⚖	juiz mulher: tom de pele claro
+👩🏼‍⚖️	juiz mulher: tom de pele claro médio
+👩🏼‍⚖	juiz mulher: tom de pele claro médio
+👩🏽‍⚖️	juiz mulher: tom de pele médio
+👩🏽‍⚖	juiz mulher: tom de pele médio
+👩🏾‍⚖️	juiz julgadora: tom de pele escuro médio
+👩🏾‍⚖	juiz julgadora: tom de pele escuro médio
+👩🏿‍⚖️	juiz mulher: tom de pele escuro
+👩🏿‍⚖	juiz mulher: tom de pele escuro
+👨‍🌾	agricultor
+👨🏻‍🌾	agricultor: tom de pele claro
+👨🏼‍🌾	agricultor: tom de pele claro médio
+👨🏽‍🌾	agricultor: tom de pele médio
+👨🏾‍🌾	agricultor: tom de pele escuro médio
+👨🏿‍🌾	agricultor: tom de pele escuro
+👩‍🌾	agricultora
+👩🏻‍🌾	agricultora: tom de pele claro
+👩🏼‍🌾	agricultora: tom de pele claro médio
+👩🏽‍🌾	agricultora: tom de pele médio
+👩🏾‍🌾	Mulher agricultora: tom de pele escuro médio
+👩🏿‍🌾	Mulher agricultora: tom de pele escuro
+👨‍🍳	cozinheiro homem
+👨🏻‍🍳	cozinheiro: tom de pele claro
+👨🏼‍🍳	cozinheiro: tom de pele claro médio
+👨🏽‍🍳	cozinheiro: tom de pele médio
+👨🏾‍🍳	cozinheiro: tom de pele escuro médio
+👨🏿‍🍳	cozinheiro: tom de pele escuro
+👩‍🍳	cozinheira
+👩🏻‍🍳	cozinheira: tom de pele claro
+👩🏼‍🍳	cozinheira: tom de pele claro médio
+👩🏽‍🍳	cozinheira: tom de pele médio
+👩🏾‍🍳	cozinheira: tom de pele meio escuro
+👩🏿‍🍳	cozinheira: tom de pele escuro
+👨‍🔧	homem mecânico mecânico
+👨🏻‍🔧	homem mecânico mecânico: tom de pele claro
+👨🏼‍🔧	homem mecânico mecânico: tom de pele claro médio
+👨🏽‍🔧	homem mecânico mecânico: tom de pele médio
+👨🏾‍🔧	homem mecânico mecânico: tom de pele meio escuro
+👨🏿‍🔧	homem mecânico mecânico: tom de pele escuro
+👩‍🔧	mulher mecânica mecânica
+👩🏻‍🔧	mulher mecânica mecânica: tom de pele claro
+👩🏼‍🔧	mulher mecânica mecânica: tom de pele claro médio
+👩🏽‍🔧	mulher mecânica mecânica: tom de pele médio
+👩🏾‍🔧	mulher mecânica mecânica: tom de pele meio escuro
+👩🏿‍🔧	mulher mecânica mecânica: tom de pele escuro
+👨‍🏭	homem fabrica trabalhador
+👨🏻‍🏭	homem fabrica trabalhador: tom de pele claro
+👨🏼‍🏭	homem fabrica trabalhador: tom de pele claro médio
+👨🏽‍🏭	homem fabrica trabalhador: tom de pele médio
+👨🏾‍🏭	homem fabrica trabalhador: tom de pele escuro médio
+👨🏿‍🏭	homem fabrica trabalhador: tom de pele escuro
+👩‍🏭	mulher fabrica trabalhador
+👩🏻‍🏭	mulher fabrica trabalhador: tom de pele claro
+👩🏼‍🏭	mulher fabrica trabalhador: tom de pele claro médio
+👩🏽‍🏭	mulher fabrica trabalhador: tom de pele médio
+👩🏾‍🏭	mulher fabrica trabalhador: tom de pele escuro médio
+👩🏿‍🏭	mulher fabrica trabalhador: tom de pele escuro
+👨‍💼	trabalhador escritório
+👨🏻‍💼	trabalhador escritório: tom de pele claro
+👨🏼‍💼	trabalhador escritório: tom de pele claro médio
+👨🏽‍💼	trabalhador escritório: tom de pele médio
+👨🏾‍💼	trabalhador escritório: tom de pele escuro médio
+👨🏿‍💼	Trabalhador escritório: tom de pele escuro
+👩‍💼	mulher trabalhadora escritório
+👩🏻‍💼	trabalhador mulher escritório: tom de pele claro
+👩🏼‍💼	trabalhador mulher escritório: tom de pele claro médio
+👩🏽‍💼	trabalhador mulher escritório: tom de pele médio
+👩🏾‍💼	mulher trabalhadora escritório: tom de pele escuro médio
+👩🏿‍💼	mulher trabalhadora escritório: tom de pele escuro
+👨‍🔬	homem cientista
+👨🏻‍🔬	homem cientista: tom de pele claro
+👨🏼‍🔬	homem cientista: tom de pele claro médio
+👨🏽‍🔬	homem cientista: tom de pele médio
+👨🏾‍🔬	homem cientista: tom de pele escuro médio
+👨🏿‍🔬	homem cientista: tom de pele escuro
+👩‍🔬	mulher cientista
+👩🏻‍🔬	mulher cientista: tom de pele claro
+👩🏼‍🔬	mulher cientista: tom de pele claro médio
+👩🏽‍🔬	mulher cientista: tom de pele médio
+👩🏾‍🔬	mulher cientista: tom de pele escuro médio
+👩🏿‍🔬	mulher cientista: tom de pele escuro
+👨‍💻	homem tecnólogo
+👨🏻‍💻	homem tecnólogo: tom de pele claro
+👨🏼‍💻	homem tecnólogo: tom de pele claro médio
+👨🏽‍💻	homem tecnólogo: tom de pele médio
+👨🏾‍💻	homem tecnólogo: tom de pele meio escuro
+👨🏿‍💻	homem tecnólogo: tom de pele escuro
+👩‍💻	mulher tecnóloga
+👩🏻‍💻	mulher tecnóloga: tom de pele claro
+👩🏼‍💻	mulher tecnóloga: tom de pele claro médio
+👩🏽‍💻	mulher tecnóloga: tom de pele médio
+👩🏾‍💻	mulher tecnóloga: tom de pele meio escuro
+👩🏿‍💻	mulher tecnóloga: tom de pele escuro
+👨‍🎤	homem cantor
+👨🏻‍🎤	homem cantor: tom de pele claro
+👨🏼‍🎤	homem cantor: tom de pele claro médio
+👨🏽‍🎤	homem cantor: tom de pele médio
+👨🏾‍🎤	homem cantor: tom de pele meio escuro
+👨🏿‍🎤	homem cantor: tom de pele escuro
+👩‍🎤	cantora
+👩🏻‍🎤	mulher cantora: tom de pele claro
+👩🏼‍🎤	mulher cantora: tom de pele claro médio
+👩🏽‍🎤	mulher cantora: tom de pele médio
+👩🏾‍🎤	mulher cantora: tom de pele meio escuro
+👩🏿‍🎤	mulher cantora: tom de pele escuro
+👨‍🎨	homem artista
+👨🏻‍🎨	homem artista: tom de pele claro
+👨🏼‍🎨	homem artista: tom de pele claro médio
+👨🏽‍🎨	homem artista: tom de pele médio
+👨🏾‍🎨	homem artista: tom de pele escuro médio
+👨🏿‍🎨	homem artista: tom de pele escuro
+👩‍🎨	mulher artista
+👩🏻‍🎨	mulher artista: tom de pele claro
+👩🏼‍🎨	mulher artista: tom de pele claro médio
+👩🏽‍🎨	mulher artista: tom de pele médio
+👩🏾‍🎨	mulher artista: tom de pele escuro médio
+👩🏿‍🎨	mulher artista: tom de pele escuro
+👨‍✈️	piloto
+👨‍✈	piloto
+👨🏻‍✈️	piloto: tom de pele claro
+👨🏻‍✈	piloto: tom de pele claro
+👨🏼‍✈️	piloto: tom de pele claro médio
+👨🏼‍✈	piloto: tom de pele claro médio
+👨🏽‍✈️	piloto: tom de pele médio
+👨🏽‍✈	piloto: tom de pele médio
+👨🏾‍✈️	piloto: tom de pele escuro médio
+👨🏾‍✈	piloto: tom de pele escuro médio
+👨🏿‍✈️	piloto: tom de pele escuro
+👨🏿‍✈	piloto: tom de pele escuro
+👩‍✈️	mulher piloto
+👩‍✈	mulher piloto
+👩🏻‍✈️	mulher piloto: tom de pele claro
+👩🏻‍✈	mulher piloto: tom de pele claro
+👩🏼‍✈️	mulher piloto: tom de pele claro médio
+👩🏼‍✈	mulher piloto: tom de pele claro médio
+👩🏽‍✈️	mulher piloto: tom de pele médio
+👩🏽‍✈	mulher piloto: tom de pele médio
+👩🏾‍✈️	mulher piloto: tom de pele escuro médio
+👩🏾‍✈	mulher piloto: tom de pele escuro médio
+👩🏿‍✈️	piloto mulher: tom de pele escuro
+👩🏽‍✈	piloto mulher: tom de pele escuro
+👨‍🚀	homem astronauta
+👨🏻‍🚀	homem astronauta: tom de pele claro
+👨🏼‍🚀	homem astronauta: tom de pele claro médio
+👨🏽‍🚀	homem astronauta: tom de pele médio
+👨🏾‍🚀	homem astronauta: tom de pele escuro médio
+👨🏿‍🚀	homem astronauta: tom de pele escuro
+👩‍🚀	mulher astronauta
+👩🏻‍🚀	mulher astronauta: tom de pele claro
+👩🏼‍🚀	mulher astronauta: tom de pele claro médio
+👩🏽‍🚀	mulher astronauta: tom de pele médio
+👩🏾‍🚀	mulher astronauta: tom de pele escuro médio
+👩🏿‍🚀	mulher astronauta: tom de pele escuro
+👨‍🚒	bombeiro
+👨🏻‍🚒	bombeiro: tom de pele claro
+👨🏼‍🚒	bombeiro: tom de pele claro médio
+👨🏽‍🚒	bombeiro: tom de pele médio
+👨🏾‍🚒	bombeiro: tom de pele meio escuro
+👨🏿‍🚒	bombeiro: tom de pele escuro
+👩‍🚒	bombeira
+👩🏻‍🚒	bombeiro: tom de pele claro
+👩🏼‍🚒	bombeira: tom de pele claro médio
+👩🏽‍🚒	bombeira: tom de pele médio
+👩🏾‍🚒	bombeira: tom de pele meio escuro
+👩🏿‍🚒	bombeira: tom de pele escuro
+👮	policial
+👮🏻	policial: tom de pele claro
+👮🏼	policial: tom de pele claro médio
+👮🏽	policial: tom de pele médio
+👮🏾	policial: tom de pele escuro médio
+👮🏿	policial: tom de pele escuro
+👮‍♂️	homem policial
+👮‍♂	homem policial
+👮🏻‍♂️	homem policial: tom de pele claro
+👮🏻‍♂	homem policial: tom de pele claro
+👮🏼‍♂️	homem policial: tom de pele claro médio
+👮🏼‍♂	homem policial: tom de pele claro médio
+👮🏽‍♂️	homem policial: tom de pele médio
+👮🏽‍♂	homem policial: tom de pele médio
+👮🏾‍♂️	homem policial: tom de pele escuro médio
+👮🏾‍♂	homem policial: tom de pele escuro médio
+👮🏿‍♂️	homem policial: tom de pele escuro
+👮🏿‍♂	homem policial: tom de pele escuro
+👮‍♀️	mulher policial
+👮‍♀	mulher policial
+👮🏻‍♀️	mulher policial: tom de pele claro
+👮🏻‍♀	mulher policial: tom de pele claro
+👮🏼‍♀️	mulher policial: tom de pele claro médio
+👮🏼‍♀	mulher policial: tom de pele claro médio
+👮🏽‍♀️	mulher policial: tom de pele médio
+👮🏽‍♀	mulher policial: tom de pele médio
+👮🏾‍♀️	mulher policial: tom de pele escuro médio
+👮🏾‍♀	mulher policial: tom de pele escuro médio
+👮🏿‍♀️	mulher policial: tom de pele escuro
+👮🏿‍♀	mulher policial: tom de pele escuro
+🕵️	detetive
+🕵	detetive
+🕵🏻	detetive: tom de pele claro
+🕵🏼	detetive: tom de pele claro médio
+🕵🏽	Detetive: tom de pele médio
+🕵🏾	detetive: tom de pele escuro médio
+🕵🏿	detetive: tom de pele escuro
+🕵️‍♂️	homem detetive
+🕵‍♂️	homem detetive
+🕵️‍♂	homem detetive
+🕵‍♂	homem detetive
+🕵🏻‍♂️	homem detetive: tom de pele claro
+🕵🏻‍♂	homem detetive: tom de pele claro
+🕵🏼‍♂️	homem detetive: tom de pele meio claro
+🕵🏼‍♂	homem detetive: tom de pele meio claro
+🕵🏽‍♂️	homem detetive: tom de pele médio
+🕵🏽‍♂	homem detetive: tom de pele médio
+🕵🏾‍♂️	homem detetive: tom de pele meio escuro
+🕵🏾‍♂	homem detetive: tom de pele meio escuro
+🕵🏿‍♂️	homem detetive: tom de pele escuro
+🕵🏿‍♂	homem detetive: tom de pele escuro
+🕵️‍♀️	mulher detetive
+🕵‍♀️	mulher detetive
+🕵️‍♀	mulher detetive
+🕵‍♀	mulher detetive
+🕵🏻‍♀️	mulher detetive: tom de pele claro
+🕵🏻‍♀	mulher detetive: tom de pele claro
+🕵🏼‍♀️	mulher detetive: tom de pele meio claro
+🕵🏼‍♀	mulher detetive: tom de pele meio claro
+🕵🏽‍♀️	mulher detetive: tom de pele médio
+🕵🏽‍♀	mulher detetive: tom de pele médio
+🕵🏾‍♀️	mulher detetive: tom de pele meio escuro
+🕵🏾‍♀	mulher detetive: tom de pele meio escuro
+🕵🏿‍♀️	mulher detetive: tom de pele escuro
+🕵🏿‍♀	mulher detetive: tom de pele escuro
+💂	guarda
+💂🏻	guarda: tom de pele claro
+💂🏼	guarda: tom de pele claro médio
+💂🏽	guarda: tom de pele médio
+💂🏾	guarda: tom de pele escuro médio
+💂🏿	guarda: tom de pele escuro
+💂‍♂️	homem da guarda
+💂‍♂	homem da guarda
+💂🏻‍♂️	homem da guarda: tom de pele claro
+💂🏻‍♂	homem da guarda: tom de pele claro
+💂🏼‍♂️	homem da guarda: tom de pele claro médio
+💂🏼‍♂	homem da guarda: tom de pele claro médio
+💂🏽‍♂️	guarda: tom de pele médio
+💂🏽‍♂	guarda: tom de pele médio
+💂🏾‍♂️	homem da guarda: tom de pele escuro médio
+💂🏾‍♂	homem da guarda: tom de pele escuro médio
+💂🏿‍♂️	homem da guarda: tom de pele escuro
+💂🏿‍♂	homem da guarda: tom de pele escuro
+💂‍♀️	mulher guarda
+💂‍♀	mulher guarda
+💂🏻‍♀️	mulher guarda: tom de pele claro
+💂🏻‍♀	mulher guarda: tom de pele claro
+💂🏼‍♀️	mulher guarda: tom de pele claro médio
+💂🏼‍♀	mulher guarda: tom de pele claro médio
+💂🏽‍♀️	guarda mulher: tom de pele médio
+💂🏽‍♀	guarda mulher: tom de pele médio
+💂🏾‍♀️	mulher guarda: tom de pele escuro médio
+💂🏾‍♀	mulher guarda: tom de pele escuro médio
+💂🏿‍♀️	mulher guarda: tom de pele escuro
+💂🏿‍♀	mulher guarda: tom de pele escuro
+👷	trabalhador da construção civil
+👷🏻	trabalhador da construção: tom de pele claro
+👷🏼	trabalhador da construção: tom de pele claro médio
+👷🏽	trabalhador da construção: tom de pele médio
+👷🏾	trabalhador da construção civil: tom de pele escuro médio
+👷🏿	trabalhador da construção civil: tom de pele escuro
+👷‍♂️	homem trabalhador da construção civil
+👷‍♂	homem trabalhador da construção civil
+👷🏻‍♂️	trabalhador da construção civil: tom de pele claro
+👷🏻‍♂	trabalhador da construção civil: tom de pele claro
+👷🏼‍♂️	trabalhador da construção civil: tom de pele claro médio
+👷🏼‍♂	trabalhador da construção civil: tom de pele claro médio
+👷🏽‍♂️	trabalhador da construção civil: tom de pele médio
+👷🏽‍♂	trabalhador da construção civil: tom de pele médio
+👷🏾‍♂️	trabalhador da construção civil: tom de pele escuro médio
+👷🏾‍♂	trabalhador da construção civil: tom de pele escuro médio
+👷🏿‍♂️	trabalhador da construção civil: tom de pele escuro
+👷🏿‍♂	trabalhador da construção civil: tom de pele escuro
+👷‍♀️	mulher operária
+👷‍♀	mulher operária
+👷🏻‍♀️	mulher operária: tom de pele claro
+👷🏻‍♀	mulher operária: tom de pele claro
+👷🏼‍♀️	mulher operária: tom de pele claro médio
+👷🏼‍♀	mulher operária: tom de pele claro médio
+👷🏽‍♀️	mulher operária: tom de pele médio
+👷🏽‍♀	mulher operária: tom de pele médio
+👷🏾‍♀️	mulher operária: tom de pele meio escuro
+👷🏾‍♀	mulher operária: tom de pele meio escuro
+👷🏿‍♀️	mulher operária: tom de pele escuro
+👷🏿‍♀	mulher operária: tom de pele escuro
+🤴	príncipe
+🤴🏻	príncipe: tom de pele claro
+🤴🏼	príncipe: pele clara
+🤴🏽	​​príncipe: tom de pele médio
+🤴🏾	príncipe: tom de pele escuro médio
+🤴🏿	Prince: tom de pele escuro
+👸	princesa
+👸🏻	princesa: tom de pele claro
+👸🏼	princesa: tom de pele claro médio
+👸🏽	princesa: tom de pele médio
+👸🏾	princesa: tom de pele escuro médio
+👸🏿	princesa: tom de pele escuro
+👳	pessoa usando turbante
+👳🏻	pessoa usando turbante: tom de pele claro
+👳🏼	pessoa usando turbante: tom de pele claro médio
+👳🏽	pessoa usando turbante: tom de pele médio
+👳🏾	pessoa usando turbante: tom de pele escuro médio
+👳🏿	pessoa usando turbante: tom de pele escuro
+👳‍♂️	homem usando turbante
+👳‍♂	homem usando turbante
+👳🏻‍♂️	homem usando turbante: tom de pele claro
+👳🏻‍♂	homem usando turbante: tom de pele claro
+👳🏼‍♂️	homem usando turbante: tom de pele claro médio
+👳🏼‍♂	homem usando turbante: tom de pele claro médio
+👳🏽‍♂️	homem usando turbante: tom de pele médio
+👳🏽‍♂	homem usando turbante: tom de pele médio
+👳🏾‍♂️	homem usando turbante: tom de pele escuro médio
+👳🏾‍♂	homem usando turbante: tom de pele escuro médio
+👳🏿‍♂️	homem usando turbante: tom de pele escuro
+👳🏿‍♂	homem usando turbante: tom de pele escuro
+👳‍♀️	mulher usando turbante
+👳‍♀	mulher usando turbante
+👳🏻‍♀️	mulher usando turbante: tom de pele claro
+👳🏻‍♀	mulher usando turbante: tom de pele claro
+👳🏼‍♀️	mulher usando turbante: tom de pele claro médio
+👳🏼‍♀	mulher usando turbante: tom de pele claro médio
+👳🏽‍♀️	mulher usando turbante: tom de pele médio
+👳🏽‍♀	mulher usando turbante: tom de pele médio
+👳🏾‍♀️	mulher usando turbante: tom de pele meio escuro
+👳🏾‍♀	mulher usando turbante: tom de pele meio escuro
+👳🏿‍♀️	mulher usando turbante: tom de pele escuro
+👳🏿‍♀	mulher usando turbante: tom de pele escuro
+👲	homem com boné chinês
+👲🏻	homem com boné chinês: tom de pele claro
+👲🏼	homem com boné chinês: tom de pele claro médio
+👲🏽	homem com boné chinês: tom de pele médio
+👲🏾	homem com boné chinês: tom de pele meio escuro
+👲🏿	homem com boné chinês: tom de pele escuro
+🧕	mulher com lenço na cabeça
+🧕🏻	mulher com lenço na cabeça: tom de pele claro
+🧕🏼	mulher com lenço na cabeça: tom de pele claro médio
+🧕🏽	mulher com lenço na cabeça: tom de pele médio
+🧕🏾	mulher com lenço na cabeça: tom de pele escuro médio
+🧕🏿	mulher com lenço na cabeça: tom de pele escuro
+🧔	pessoa barbada
+🧔🏻	barbudo: tom de pele claro
+🧔🏼	pessoa barbada: tom de pele clara
+🧔🏽	pessoa barbada: tom de pele médio
+🧔🏾	pessoa barbada: tom de pele escuro médio
+🧔🏿	pessoa barbada: tom de pele escuro
+👱	loira - pessoa de cabelo
+👱🏻	loiro - cabelo de pessoa: tom de pele claro
+👱🏼	loiro - cabelo de pessoa: tom de pele claro médio
+👱🏽	loiro - cabelo de pessoa: tom de pele médio
+👱🏾	loiro - cabelo de pessoa: tom de pele meio escuro
+👱🏿	loiro - cabelo de pessoa: tom de pele escuro
+👱‍♂️	loiro - cabelo de homem
+👱‍♂	loiro - cabelo de homem
+👱🏻‍♂️	loiro - cabelo de homem: tom de pele claro
+👱🏻‍♂	loiro - cabelo de homem: tom de pele claro
+👱🏼‍♂️	loiro - cabelo de homem: tom de pele médio a claro
+👱🏼‍♂	loiro - cabelo de homem: tom de pele médio a claro
+👱🏽‍♂️	loiro - cabelo de homem: tom de pele médio
+👱🏽‍♂	loiro - cabelo de homem: tom de pele médio
+👱🏾‍♂️	loiro - cabelo de homem: tom de pele meio escuro
+👱🏾‍♂	loiro - cabelo de homem: tom de pele meio escuro
+👱🏿‍♂️	loiro - cabelo de homem: tom de pele escuro
+👱🏿‍♂	loiro - cabelo de homem: tom de pele escuro
+👱‍♀️	loiro - cabelo de mulher
+👱‍♀	loiro - cabelo de mulher
+👱🏻‍♀️	loiro - cabelo de mulher: tom de pele claro
+👱🏻‍♀	loiro - cabelo de mulher: tom de pele claro
+👱🏼‍♀️	loiro - cabelo de mulher: tom de pele médio a claro
+👱🏼‍♀	loiro - cabelo de mulher: tom de pele médio a claro
+👱🏽‍♀️	loiro - cabelo de mulher: tom de pele médio
+👱🏽‍♀	loiro - cabelo de mulher: tom de pele médio
+👱🏾‍♀️	loiro - cabelo de mulher: tom de pele meio escuro
+👱🏾‍♀	loiro - cabelo de mulher: tom de pele meio escuro
+👱🏿‍♀️	loiro - cabelo de mulher: tom de pele escuro
+👱🏿‍♀	loiro - cabelo de mulher: tom de pele escuro
+👨‍🦰	homem com cabelo vermelho
+👨🏻‍🦰	homem, cabelo ruivo: tom de pele claro
+👨🏼‍🦰	homem, cabelo ruivo: tom de pele claro médio
+👨🏽‍🦰	homem, cabelo ruivo: tom de pele médio
+👨🏾‍🦰	homem, cabelo ruivo: tom de pele escuro médio
+👨🏿‍🦰	homem, cabelo ruivo: tom de pele escuro
+👩‍🦰	mulher com cabelo ruivo
+👩🏻‍🦰	mulher, cabelo ruivo: tom de pele claro
+👩🏼‍🦰	mulher, cabelo ruivo: tom de pele claro médio
+👩🏽‍🦰	mulher, cabelo ruivo: tom de pele médio
+👩🏾‍🦰	mulher, cabelo ruivo: tom de pele escuro médio
+👩🏿‍🦰	mulher, cabelo ruivo: tom de pele escuro
+👨‍🦱	homem com cabelo encaracolado
+👨🏻‍🦱	homem, cabelo encaracolado: tom de pele claro
+👨🏼‍🦱	homem, cabelo encaracolado: tom de pele claro médio
+👨🏽‍🦱	homem, cabelo encaracolado: tom de pele médio
+👨🏾‍🦱	homem, cabelo encaracolado: tom de pele escuro médio
+👨🏿‍🦱	homem, cabelo encaracolado: tom de pele escuro
+👩‍🦱	mulher com cabelo encaracolado
+👩🏻‍🦱	mulher, cabelos cacheados: tom de pele claro
+👩🏼‍🦱	mulher, cabelo encaracolado: tom de pele claro médio
+👩🏽‍🦱	mulher, cabelo encaracolado: tom de pele médio
+👩🏾‍🦱	mulher, cabelo encaracolado: tom de pele escuro médio
+👩🏿‍🦱	mulher, cabelos cacheados: tom de pele escuro
+👨‍🦲	homem careca
+👨🏻‍🦲	homem, careca: tom de pele claro
+👨🏼‍🦲	homem, careca: tom de pele claro médio
+👨🏽‍🦲	homem, careca: tom de pele médio
+👨🏾‍🦲	homem, careca: tom de pele escuro médio
+👨🏿‍🦲	homem, careca: tom de pele escuro
+👩‍🦲	mulher careca
+👩🏻‍🦲	mulher, careca: tom de pele claro
+👩🏼‍🦲	mulher, careca: tom de pele claro médio
+👩🏽‍🦲	mulher, careca: tom de pele médio
+👩🏾‍🦲	mulher, careca: tom de pele escuro médio
+👩🏿‍🦲	mulher, careca: tom de pele escuro
+👨‍🦳	cabelo branco de homem
+👨🏻‍🦳	homem, cabelo branco: tom de pele claro
+👨🏼‍🦳	homem, cabelo branco: tom de pele claro médio
+👨🏽‍🦳	homem, cabelo branco: tom de pele médio
+👨🏾‍🦳	homem, cabelo branco: tom de pele escuro médio
+👨🏿‍🦳	homem, cabelo branco: tom de pele escuro
+👩‍🦳	cabelo branco de mulher
+👩🏻‍🦳	mulher, cabelo branco: tom de pele claro
+👩🏼‍🦳	mulher, cabelo branco: tom de pele claro médio
+👩🏽‍🦳	mulher, cabelo branco: tom de pele médio
+👩🏾‍🦳	mulher, cabelo branco: tom de pele escuro médio
+👩🏿‍🦳	mulher, cabelo branco: tom de pele escuro
+🤵	homem de smoking
+🤵🏻	homem de smoking: tom de pele claro
+🤵🏼	homem de smoking: tom de pele claro médio
+🤵🏽	homem de smoking: tom de pele médio
+🤵🏾	homem de smoking: tom de pele meio escuro
+🤵🏿	homem de smoking: tom de pele escuro
+👰	noiva com véu
+👰🏻	noiva com véu: tom de pele claro
+👰🏼	noiva com véu: tom de pele claro médio
+👰🏽	noiva com véu: tom de pele médio
+👰🏾	noiva com véu: tom de pele meio escuro
+👰🏿	noiva com véu: tom de pele escuro
+🤰	mulher grávida
+🤰🏻	gestante: tom de pele claro
+🤰🏼	gestante: tom de pele claro médio
+🤰🏽	gestante: tom de pele médio
+🤰🏾	gestante: tom de pele meio escuro
+🤰🏿	gestante: tom de pele escuro
+🤱	amamentação
+🤱🏻	amamentação: tom de pele claro
+🤱🏼	amamentação: tom de pele claro médio
+🤱🏽	amamentação: tom de pele médio
+🤱🏾	amamentação: tom de pele meio escuro
+🤱🏿	amamentação: tom de pele escuro
+👼	anjo bebê
+👼🏻	anjo bebê: tom de pele claro
+👼🏼	anjo bebê: tom de pele claro médio
+👼🏽	anjo bebê: tom de pele médio
+👼🏾	anjo bebê: tom de pele meio escuro
+👼🏿	anjo bebê: tom de pele escuro
+🎅	Papai Noel
+🎅🏻	Papai Noel: tom de pele claro
+🎅🏼	Papai Noel: tom leve médio pele
+🎅🏽	Papai Noel: tom meio pele
+🎅🏾	Papai Noel: tom de pele escuro médio
+🎅🏿	Papai Noel: tom de pele escuro
+🤶	Senhora Noel
+🤶🏻	Sra. Noel: tom de pele claro
+🤶🏼	Sra. Noel: tom de pele claro médio
+🤶🏽	Sra. Noel: tom de pele médio
+🤶🏾	Sra. Noel: tom de pele meio escuro
+🤶🏿	Sra. Noel: tom de pele escuro
+🦸	Super heroi
+🦸🏻	super-herói: tom de pele claro
+🦸🏼	super-herói: tom light pele
+🦸🏽	super-herói: tom medium pele
+🦸🏾	super-herói: tom de pele escuro médio
+🦸🏿	super-herói: tom de pele escuro
+🦸‍♀️	mulher super-heroína
+🦸‍♀	mulher super-heroína
+🦸🏻‍♀️	mulher super-herói: tom de pele claro
+🦸🏻‍♀	mulher super-herói: tom de pele claro
+🦸🏼‍♀️	mulher super-herói: tom de pele claro médio
+🦸🏼‍♀	mulher super-herói: tom de pele claro médio
+🦸🏽‍♀️	mulher super-herói: tom de pele médio
+🦸🏽‍♀	mulher super-herói: tom de pele médio
+🦸🏾‍♀️	mulher super-herói: tom de pele meio escuro
+🦸🏾‍♀	mulher super-herói: tom de pele meio escuro
+🦸🏿‍♀️	mulher super-herói: tom de pele escuro
+🦸🏿‍♀	mulher super-herói: tom de pele escuro
+🦸‍♂️	homem super-herói
+🦸‍♂	homem super-herói
+🦸🏻‍♂️	homem super-herói: tom de pele claro
+🦸🏻‍♂	homem super-herói: tom de pele claro
+🦸🏼‍♂️	homem super-herói: tom de pele claro médio
+🦸🏼‍♂	homem super-herói: tom de pele claro médio
+🦸🏽‍♂️	homem super-herói: tom de pele médio
+🦸🏽‍♂	homem super-herói: tom de pele médio
+🦸🏾‍♂️	homem super-herói: tom de pele meio escuro
+🦸🏾‍♂	homem super-herói: tom de pele meio escuro
+🦸🏿‍♂️	homem super-herói: tom de pele escuro
+🦸🏿‍♂	homem super-herói: tom de pele escuro
+🦹	Super-vilão
+🦹🏻	supervilão: tom de pele claro
+🦹🏼	supervilão: tom médio claro da pele
+🦹🏽	supervilão: tom médio pele
+🦹🏾	supervilão: tom de pele escuro médio
+🦹🏿	supervilão: tom de pele escuro
+🦹‍♀️	mulher supervilã
+🦹‍♀	mulher supervilã
+🦹🏻‍♀️	mulher supervilhada: tom de pele claro
+🦹🏻‍♀	mulher supervilhada: tom de pele claro
+🦹🏼‍♀️	mulher supervilhada: tom de pele claro médio
+🦹🏼‍♀	mulher supervilhada: tom de pele claro médio
+🦹🏽‍♀️	mulher supervilhada: tom de pele médio
+🦹🏽‍♀	mulher supervilhada: tom de pele médio
+🦹🏾‍♀️	mulher supervilhada: tom de pele meio escuro
+🦹🏾‍♀	mulher supervilhada: tom de pele meio escuro
+🦹🏿‍♀️	mulher supervilã: tom de pele escuro
+🦹🏿‍♀	mulher supervilã: tom de pele escuro
+🦹‍♂️	homem supervilão
+🦹‍♂	homem supervilão
+🦹🏻‍♂️	homem supervilão: tom de pele claro
+🦹🏻‍♂	homem supervilão: tom de pele claro
+🦹🏼‍♂️	homem supervilão: tom de pele claro médio
+🦹🏼‍♂	homem supervilão: tom de pele claro médio
+🦹🏽‍♂️	homem supervilão: tom de pele médio
+🦹🏽‍♂	homem supervilão: tom de pele médio
+🦹🏾‍♂️	homem supervilão: tom de pele escuro médio
+🦹🏾‍♂	homem supervilão: tom de pele escuro médio
+🦹🏿‍♂️	homem supervilão: tom de pele escuro
+🦹🏿‍♂	homem supervilão: tom de pele escuro
+🧙	mago
+🧙🏻	mago: tom de pele claro
+🧙🏼	mago: tom leve médio pele
+🧙🏽	mago: tom de pele médio
+🧙🏾	mago: tom de pele escuro médio
+🧙🏿	mago: tom de pele escuro
+🧙‍♀️	mulher maga
+🧙‍♀	mulher maga
+🧙🏻‍♀️	mulher maga: tom de pele claro
+🧙🏻‍♀	mulher maga: tom de pele claro
+🧙🏼‍♀️	mulher maga: tom de pele claro médio
+🧙🏼‍♀	mulher maga: tom de pele claro médio
+🧙🏽‍♀️	mulher maga: tom de pele médio
+🧙🏽‍♀	mulher maga: tom de pele médio
+🧙🏾‍♀️	mulher maga: tom de pele escuro médio
+🧙🏾‍♀	mulher maga: tom de pele escuro médio
+🧙🏿‍♀️	mulher maga: tom de pele escuro
+🧙🏿‍♀	mulher maga: tom de pele escuro
+🧙‍♂️	homem mago
+🧙‍♂	homem mago
+🧙🏻‍♂️	homem mago: tom de pele claro
+🧙🏻‍♂	homem mago: tom de pele claro
+🧙🏼‍♂️	homem mago: tom de pele claro médio
+🧙🏼‍♂	homem mago: tom de pele claro médio
+🧙🏽‍♂️	homem mago: tom de pele médio
+🧙🏽‍♂	homem mago: tom de pele médio
+🧙🏾‍♂️	homem mago: tom de pele escuro médio
+🧙🏾‍♂	homem mago: tom de pele escuro médio
+🧙🏿‍♂️	homem mago: tom de pele escuro
+🧙🏿‍♂	homem mago: tom de pele escuro
+🧚	fada
+🧚🏻	fada: tom de pele claro
+🧚🏼	fada: tom light pele
+🧚🏽	fada: Tom, diodo PE
+🧚🏾	fada: tom de pele escuro médio
+🧚🏿	fada: tom de pele escuro
+🧚‍♀️	fada mulher
+🧚‍♀	fada mulher
+🧚🏻‍♀️	fada mulher: tom de pele claro
+🧚🏻‍♀	fada mulher: tom de pele claro
+🧚🏼‍♀️	mulher fada: tom de pele claro médio
+🧚🏼‍♀	mulher fada: tom de pele claro médio
+🧚🏽‍♀️	fada mulher: tom de pele médio
+🧚🏽‍♀	fada mulher: tom de pele médio
+🧚🏾‍♀️	mulher fada: tom de pele meio escuro
+🧚🏾‍♀	mulher fada: tom de pele meio escuro
+🧚🏿‍♀️	fada mulher: tom de pele escuro
+🧚🏿‍♀	fada mulher: tom de pele escuro
+🧚‍♂️	homem das fadas
+🧚‍♂	homem das fadas
+🧚🏻‍♂️	homem das fadas: tom de pele claro
+🧚🏻‍♂	homem das fadas: tom de pele claro
+🧚🏼‍♂️	homem das fadas: tom de pele claro médio
+🧚🏼‍♂	homem das fadas: tom de pele claro médio
+🧚🏽‍♂️	homem das fadas: tom de pele médio
+🧚🏽‍♂	homem das fadas: tom de pele médio
+🧚🏾‍♂️	homem das fadas: tom de pele escuro médio
+🧚🏾‍♂	homem das fadas: tom de pele escuro médio
+🧚🏿‍♂️	homem das fadas: tom de pele escuro
+🧚🏿‍♂	homem das fadas: tom de pele escuro
+🧛	vampiro
+🧛🏻	vampiro: tom de pele claro
+🧛🏼	vampiro: tom light pele
+🧛🏽	vampiro: tom meio pele
+🧛🏾	vampiro: tom de pele escuro médio
+🧛🏿	vampiro: tom de pele escuro
+🧛‍♀️	mulher vampira
+🧛‍♀	mulher vampira
+🧛🏻‍♀️	mulher vampiro: tom de pele claro
+🧛🏻‍♀	mulher vampiro: tom de pele claro
+🧛🏼‍♀️	mulher vampiro: tom de pele claro médio
+🧛🏼‍♀	mulher vampiro: tom de pele claro médio
+🧛🏽‍♀️	mulher vampira: tom de pele médio
+🧛🏽‍♀	mulher vampira: tom de pele médio
+🧛🏾‍♀️	mulher vampiro: tom de pele escuro médio
+🧛🏾‍♀	mulher vampiro: tom de pele escuro médio
+🧛🏿‍♀️	mulher vampiro: tom de pele escuro
+🧛🏿‍♀	mulher vampiro: tom de pele escuro
+🧛‍♂️	homem vampiro
+🧛‍♂	homem vampiro
+🧛🏻‍♂️	homem vampiro: tom de pele claro
+🧛🏻‍♂	homem vampiro: tom de pele claro
+🧛🏼‍♂️	homem vampiro: tom de pele claro médio
+🧛🏼‍♂	homem vampiro: tom de pele claro médio
+🧛🏽‍♂️	homem vampiro: tom de pele médio
+🧛🏽‍♂	homem vampiro: tom de pele médio
+🧛🏾‍♂️	homem vampiro: tom de pele escuro médio
+🧛🏾‍♂	homem vampiro: tom de pele escuro médio
+🧛🏿‍♂️	homem vampiro: tom de pele escuro
+🧛🏿‍♂	homem vampiro: tom de pele escuro
+🧜	Merperson
+🧜🏻	Merperson: tom de pele claro
+🧜🏼	Merperson: tom médio claro de pele
+🧜🏽	Moore pessoa: Tom, diodo PE
+🧜🏾	Merperson: tom de pele escuro médio
+🧜🏿	Merperson: tom de pele escuro
+🧜‍♀️	sereia
+🧜‍♀	sereia
+🧜🏻‍♀️	sereia: tom de pele claro
+🧜🏻‍♀	sereia: tom de pele claro
+🧜🏼‍♀️	sereia: tom de pele claro médio
+🧜🏼‍♀	sereia: tom de pele claro médio
+🧜🏽‍♀️	sereia: tom de pele médio
+🧜🏽‍♀	sereia: tom de pele médio
+🧜🏾‍♀️	sereia: tom de pele escuro médio
+🧜🏾‍♀	sereia: tom de pele escuro médio
+🧜🏿‍♀️	sereia: tom de pele escuro
+🧜🏿‍♀	sereia: tom de pele escuro
+🧜‍♂️	tritão
+🧜‍♂	tritão
+🧜🏻‍♂️	merhomem: tom de pele claro
+🧜🏻‍♂	merhomem: tom de pele claro
+🧜🏼‍♂️	merhomem: tom de pele claro médio
+🧜🏼‍♂	merhomem: tom de pele claro médio
+🧜🏽‍♂️	merhomem: tom de pele médio
+🧜🏽‍♂	merhomem: tom de pele médio
+🧜🏾‍♂️	merhomem: tom de pele escuro médio
+🧜🏾‍♂	merhomem: tom de pele escuro médio
+🧜🏿‍♂️	merhomem: tom de pele escuro
+🧜🏿‍♂	merhomem: tom de pele escuro
+🧝	duende
+🧝🏻	elfo: tom de pele claro
+🧝🏼	elfo: tom leve médio pele
+🧝🏽	ELF: Tom, diodo PE
+🧝🏾	elfo: tom de pele escuro médio
+🧝🏿	elfo: tom de pele escuro
+🧝‍♀️	elfa
+🧝‍♀	elfa
+🧝🏻‍♀️	elfa: tom de pele claro
+🧝🏻‍♀	elfa: tom de pele claro
+🧝🏼‍♀️	elfa: tom de pele claro médio
+🧝🏼‍♀	elfa: tom de pele claro médio
+🧝🏽‍♀️	elfa: tom de pele médio
+🧝🏽‍♀	elfa: tom de pele médio
+🧝🏾‍♀️	elfa: tom de pele escuro médio
+🧝🏾‍♀	elfa: tom de pele escuro médio
+🧝🏿‍♀️	elfa: tom de pele escuro
+🧝🏿‍♀	elfa: tom de pele escuro
+🧝‍♂️	homem elfo
+🧝‍♂	homem elfo
+🧝🏻‍♂️	homem elfo: tom de pele claro
+🧝🏻‍♂	homem elfo: tom de pele claro
+🧝🏼‍♂️	homem elfo: tom de pele claro médio
+🧝🏼‍♂	homem elfo: tom de pele claro médio
+🧝🏽‍♂️	homem elfo: tom de pele médio
+🧝🏽‍♂	homem elfo: tom de pele médio
+🧝🏾‍♂️	homem elfo: tom de pele escuro médio
+🧝🏾‍♂	homem elfo: tom de pele escuro médio
+🧝🏿‍♂️	homem elfo: tom de pele escuro
+🧝🏿‍♂	homem elfo: tom de pele escuro
+🧞	gênio
+🧞‍♀️	mulher genie
+🧞‍♀	mulher genie
+🧞‍♂️	homem gênio
+🧞‍♂	homem gênio
+🧟	zumbi
+🧟‍♀️	mulher zumbi
+🧟‍♀	mulher zumbi
+🧟‍♂️	homem zumbi
+🧟‍♂	homem zumbi
+🙍	carrancudo pessoa
+🙍🏻	carrancudo pessoa: Tom Claro de Pele
+🙍🏼	pessoa carrancudo: tom médio claro de pele
+🙍🏽	pessoa carrancudo: tom medio de pele
+🙍🏾	pessoa carrancudo: tom escuro médio de pele
+🙍🏿	pessoa carrancuda: tom de pele escuro
+🙍‍♂️	homem carrancudo
+🙍‍♂	homem carrancudo
+🙍🏻‍♂️	homem carrancudo: tom de pele claro
+🙍🏻‍♂	homem carrancudo: tom de pele claro
+🙍🏼‍♂️	homem carrancudo: tom de pele claro médio
+🙍🏼‍♂	homem carrancudo: tom de pele claro médio
+🙍🏽‍♂️	homem carrancudo: tom de pele médio
+🙍🏽‍♂	homem carrancudo: tom de pele médio
+🙍🏾‍♂️	homem carrancudo: tom de pele escuro médio
+🙍🏾‍♂	homem carrancudo: tom de pele escuro médio
+🙍🏿‍♂️	homem carrancudo: tom de pele escuro
+🙍🏿‍♂	homem carrancudo: tom de pele escuro
+🙍‍♀️	mulher carrancuda
+🙍‍♀	mulher carrancuda
+🙍🏻‍♀️	mulher carrancuda: tom de pele claro
+🙍🏻‍♀	mulher carrancuda: tom de pele claro
+🙍🏼‍♀️	mulher carrancuda: tom de pele claro médio
+🙍🏼‍♀	mulher carrancuda: tom de pele claro médio
+🙍🏽‍♀️	mulher carrancuda: tom de pele médio
+🙍🏽‍♀	mulher carrancuda: tom de pele médio
+🙍🏾‍♀️	mulher carrancuda: tom de pele escuro médio
+🙍🏾‍♀	mulher carrancuda: tom de pele escuro médio
+🙍🏿‍♀️	mulher carrancuda: tom de pele escuro
+🙍🏿‍♀	mulher carrancuda: tom de pele escuro
+🙎	pessoa fazendo beicinho
+🙎🏻	pessoa fazendo beicinho: tom de pele claro
+🙎🏼	pessoa fazendo beicinho: tom meio claro pele
+🙎🏽	pessoa fazendo beicinho: Tom, diodo PE
+🙎🏾	pessoa fazendo beicinho: tom de pele meio escuro
+🙎🏿	pessoa fazendo beicinho: tom de pele escuro
+🙎‍♂️	homem fazendo beicinho
+🙎‍♂	homem fazendo beicinho
+🙎🏻‍♂️	homem fazendo beicinho: tom de pele claro
+🙎🏻‍♂	homem fazendo beicinho: tom de pele claro
+🙎🏼‍♂️	homem beicinho: tom de pele meio claro
+🙎🏼‍♂	homem beicinho: tom de pele meio claro
+🙎🏽‍♂️	homem beicinho: tom de pele médio
+🙎🏽‍♂	homem beicinho: tom de pele médio
+🙎🏾‍♂️	homem beicinho: tom de pele meio escuro
+🙎🏾‍♂	homem beicinho: tom de pele meio escuro
+🙎🏿‍♂️	homem fazendo beicinho: tom de pele escuro
+🙎🏿‍♂	homem fazendo beicinho: tom de pele escuro
+🙎‍♀️	mulher fazendo beicinho
+🙎‍♀	mulher fazendo beicinho
+🙎🏻‍♀️	mulher fazendo beicinho: tom de pele claro
+🙎🏻‍♀	mulher fazendo beicinho: tom de pele claro
+🙎🏼‍♀️	mulher fazendo beicinho: tom de pele meio claro
+🙎🏼‍♀	mulher fazendo beicinho: tom de pele meio claro
+🙎🏽‍♀️	mulher fazendo beicinho: tom de pele médio
+🙎🏽‍♀	mulher fazendo beicinho: tom de pele médio
+🙎🏾‍♀️	mulher fazendo beicinho: tom de pele meio escuro
+🙎🏾‍♀	mulher fazendo beicinho: tom de pele meio escuro
+🙎🏿‍♀️	mulher fazendo beicinho: tom de pele escuro
+🙎🏿‍♀	mulher fazendo beicinho: tom de pele escuro
+🙅	pessoa gesticulando NÃO
+🙅🏻	pessoa gesticulando NÃO: tom claro de pele
+🙅🏼	pessoa gesticulando NÃO: tom leve médio pele
+🙅🏽	pessoa gesticulando NÃO: tom medium pele
+🙅🏾	pessoa gesticulando NÃO: tom dark medium pele
+🙅🏿	pessoa gesticulando NÃO: tom de pele escuro
+🙅‍♂️	homem gesticulando NÃO
+🙅‍♂	homem gesticulando NÃO
+🙅🏻‍♂️	gesticulando homem NÃO: tom de pele claro
+🙅🏻‍♂	gesticulando homem NÃO: tom de pele claro
+🙅🏼‍♂️	gesticulando homem NÃO: tom de pele claro médio
+🙅🏼‍♂	gesticulando homem NÃO: tom de pele claro médio
+🙅🏽‍♂️	gesticulando homem NÃO: tom de pele médio
+🙅🏽‍♂	gesticulando homem NÃO: tom de pele médio
+🙅🏾‍♂️	homem gesticulando NÃO: tom de pele escuro médio
+🙅🏾‍♂	homem gesticulando NÃO: tom de pele escuro médio
+🙅🏿‍♂️	SEM gestos: tom de pele escuro
+🙅🏿‍♂	SEM gestos: tom de pele escuro
+🙅‍♀️	SEM mulher gesticulando
+🙅‍♀	SEM mulher gesticulando
+🙅🏻‍♀️	gesticulando mulher NÃO: tom de pele claro
+🙅🏻‍♀	gesticulando mulher NÃO: tom de pele claro
+🙅🏼‍♀️	mulher gesticulando NÃO: tom de pele claro médio
+🙅🏼‍♀	mulher gesticulando NÃO: tom de pele claro médio
+🙅🏽‍♀️	gesticulando mulher NÃO: tom de pele médio
+🙅🏽‍♀	gesticulando mulher NÃO: tom de pele médio
+🙅🏾‍♀️	SEM mulher gesticulando: tom de pele escuro médio
+🙅🏾‍♀	SEM mulher gesticulando: tom de pele escuro médio
+🙅🏿‍♀️	SEM mulher gesticulando: tom de pele escuro
+🙅🏿‍♀	SEM mulher gesticulando: tom de pele escuro
+🙆	pessoa gesticulando ok
+🙆🏻	pessoa gesticulando OK: tom de pele claro
+🙆🏼	pessoa gesticulando OK: tom leve médio da pele
+🙆🏽	pessoa gesticulando OK: tom meio pele
+🙆🏾	pessoa gesticulando OK: tom de pele escuro médio
+🙆🏿	pessoa gesticulando OK: tom de pele escuro
+🙆‍♂️	OK gesticulando homem
+🙆‍♂	OK gesticulando homem
+🙆🏻‍♂️	OK homem gesticulando: tom de pele claro
+🙆🏻‍♂	OK homem gesticulando: tom de pele claro
+🙆🏼‍♂️	OK homem gesticulando: tom de pele claro médio
+🙆🏼‍♂	OK homem gesticulando: tom de pele claro médio
+🙆🏽‍♂️	OK homem gesticulando: tom de pele médio
+🙆🏽‍♂	OK homem gesticulando: tom de pele médio
+🙆🏾‍♂️	OK homem gesticulando: tom de pele escuro médio
+🙆🏾‍♂	OK homem gesticulando: tom de pele escuro médio
+🙆🏿‍♂️	OK homem gesticulando: tom de pele escuro
+🙆🏿‍♂	OK homem gesticulando: tom de pele escuro
+🙆‍♀️	OK mulher gesticulando
+🙆‍♀	OK mulher gesticulando
+🙆🏻‍♀️	OK mulher gesticulando: tom de pele claro
+🙆🏻‍♀	OK mulher gesticulando: tom de pele claro
+🙆🏼‍♀️	Mulher gesticulando bem: tom de pele claro médio
+🙆🏼‍♀	Mulher gesticulando bem: tom de pele claro médio
+🙆🏽‍♀️	OK mulher gesticulando: tom de pele médio
+🙆🏽‍♀	OK mulher gesticulando: tom de pele médio
+🙆🏾‍♀️	OK mulher gesticulando: tom de pele meio escuro
+🙆🏾‍♀	OK mulher gesticulando: tom de pele meio escuro
+🙆🏿‍♀️	OK mulher gesticulando: tom de pele escuro
+🙆🏿‍♀	OK mulher gesticulando: tom de pele escuro
+💁	pessoa inclinando a mão
+💁🏻	pessoa inclinando a mão: tom de pele claro
+💁🏼	pessoa que inclina a mão: tom de pele claro médio
+💁🏽	pessoa inclinando a mão: tom de pele médio
+💁🏾	pessoa inclinando a mão: tom de pele escuro médio
+💁🏿	pessoa inclinando a mão: tom de pele escuro
+💁‍♂️	mão do homem inclinando a mão
+💁‍♂	mão do homem inclinando a mão
+💁🏻‍♂️	inclinação da mão do homem: tom de pele claro
+💁🏻‍♂	inclinação da mão do homem: tom de pele claro
+💁🏼‍♂️	inclinação da mão do homem: tom de pele claro médio
+💁🏼‍♂	inclinação da mão do homem: tom de pele claro médio
+💁🏽‍♂️	inclinação da mão do homem: tom de pele médio
+💁🏽‍♂	inclinação da mão do homem: tom de pele médio
+💁🏾‍♂️	inclinação da mão do homem: tom de pele escuro médio
+💁🏾‍♂	inclinação da mão do homem: tom de pele escuro médio
+💁🏿‍♂️	inclinação da mão do homem: tom de pele escuro
+💁🏿‍♂	inclinação da mão do homem: tom de pele escuro
+💁‍♀️	mão de mulher inclinando a mão
+💁‍♀	mão de mulher inclinando a mão
+💁🏻‍♀️	inclinação da mão da mulher: tom de pele claro
+💁🏻‍♀	inclinação da mão da mulher: tom de pele claro
+💁🏼‍♀️	inclinação da mão da mulher: tom de pele claro médio
+💁🏼‍♀	inclinação da mão da mulher: tom de pele claro médio
+💁🏽‍♀️	inclinação da mão da mulher: tom de pele médio
+💁🏽‍♀	inclinação da mão da mulher: tom de pele médio
+💁🏾‍♀️	inclinação da mão da mulher: tom de pele escuro médio
+💁🏾‍♀	inclinação da mão da mulher: tom de pele escuro médio
+💁🏿‍♀️	inclinação da mão da mulher: tom de pele escuro
+💁🏿‍♀	inclinação da mão da mulher: tom de pele escuro
+🙋	pessoa levantando a mão
+🙋🏻	pessoa levantando a mão: tom de pele claro
+🙋🏼	pessoa levantando a mão: tom de pele claro médio
+🙋🏽	pessoa levantando a mão: tom de pele médio
+🙋🏾	pessoa levantando a mão: tom de pele escuro médio
+🙋🏿	pessoa levantando a mão: tom de pele escuro
+🙋‍♂️	homem levantando a mão
+🙋‍♂	homem levantando a mão
+🙋🏻‍♂️	homem levantando a mão: tom de pele claro
+🙋🏻‍♂	homem levantando a mão: tom de pele claro
+🙋🏼‍♂️	homem levantando a mão: tom de pele claro médio
+🙋🏼‍♂	homem levantando a mão: tom de pele claro médio
+🙋🏽‍♂️	homem levantando a mão: tom de pele médio
+🙋🏽‍♂	homem levantando a mão: tom de pele médio
+🙋🏾‍♂️	homem levantando a mão: tom de pele escuro médio
+🙋🏾‍♂	homem levantando a mão: tom de pele escuro médio
+🙋🏿‍♂️	homem levantando a mão: tom de pele escuro
+🙋🏿‍♂	homem levantando a mão: tom de pele escuro
+🙋‍♀️	mulher levantando a mão
+🙋‍♀	mulher levantando a mão
+🙋🏻‍♀️	mulher levantando a mão: tom de pele claro
+🙋🏻‍♀	mulher levantando a mão: tom de pele claro
+🙋🏼‍♀️	mão levantando mulher: tom de pele claro médio
+🙋🏼‍♀	mão levantando mulher: tom de pele claro médio
+🙋🏽‍♀️	mulher levantando a mão: tom de pele médio
+🙋🏽‍♀	mulher levantando a mão: tom de pele médio
+🙋🏾‍♀️	mulher levantando a mão: tom de pele escuro médio
+🙋🏾‍♀	mulher levantando a mão: tom de pele escuro médio
+🙋🏿‍♀️	mulher levantando a mão: tom de pele escuro
+🙋🏿‍♀	mulher levantando a mão: tom de pele escuro
+🙇	pessoa se curvando
+🙇🏻	pessoa se curvando: PE de Tom CLA RO
+🙇🏼	pessoa se curvando: tom médio claro pele
+🙇🏽	pessoa se curvando: Tom, diodo PE
+🙇🏾	pessoa se curvando: tom médio escuro de pele
+🙇🏿	pessoa se curvando: tom de pele escuro
+🙇‍♂️	curvando-se homem
+🙇‍♂	curvando-se homem
+🙇🏻‍♂️	homem curvando-se: tom de pele claro
+🙇🏻‍♂	homem curvando-se: tom de pele claro
+🙇🏼‍♂️	homem curvando-se: tom de pele claro médio
+🙇🏼‍♂	homem curvando-se: tom de pele claro médio
+🙇🏽‍♂️	homem curvando-se: tom de pele médio
+🙇🏽‍♂	homem curvando-se: tom de pele médio
+🙇🏾‍♂️	homem curvando-se: tom de pele escuro médio
+🙇🏾‍♂	homem curvando-se: tom de pele escuro médio
+🙇🏿‍♂️	homem curvando-se: tom de pele escuro
+🙇🏿‍♂	homem curvando-se: tom de pele escuro
+🙇‍♀️	curvando-se mulher
+🙇‍♀	curvando-se mulher
+🙇🏻‍♀️	curvando-se mulher: tom de pele claro
+🙇🏻‍♀	curvando-se mulher: tom de pele claro
+🙇🏼‍♀️	curvando-se mulher: tom de pele claro médio
+🙇🏼‍♀	mulher curvada: tom de pele claro médio
+🙇🏽‍♀️	curvando-se mulher: tom de pele médio
+🙇🏽‍♀	curvando-se mulher: tom de pele médio
+🙇🏾‍♀️	mulher curvando-se: tom de pele escuro médio
+🙇🏾‍♀	mulher curvando-se: tom de pele escuro médio
+🙇🏿‍♀️	curvando-se mulher: tom de pele escuro
+🙇🏿‍♀	curvando-se mulher: tom de pele escuro
+🤦	pessoa rostopalming
+🤦🏻	pessoa rostopalming: tom de pele claro
+🤦🏼	rostopalming pessoa: tom medium light pele
+🤦🏽	pessoa ROS para palming: Tom, diodo PE
+🤦🏾	pessoa rostopalming: tom de pele escuro médio
+🤦🏿	pessoa rostopalming: tom de pele escuro
+🤦‍♂️	homem rostopalming
+🤦‍♂	homem rostopalming
+🤦🏻‍♂️	homem rostopalming: tom de pele claro
+🤦🏻‍♂	homem rostopalming: tom de pele claro
+🤦🏼‍♂️	homem rostopalming: tom de pele claro médio
+🤦🏼‍♂	homem rostopalming: tom de pele claro médio
+🤦🏽‍♂️	homem rostopalming: tom de pele médio
+🤦🏽‍♂	homem rostopalming: tom de pele médio
+🤦🏾‍♂️	homem rostopalming: tom de pele meio escuro
+🤦🏾‍♂	homem rostopalming: tom de pele meio escuro
+🤦🏿‍♂️	homem rostopalming: tom de pele escuro
+🤦🏿‍♂	homem rostopalming: tom de pele escuro
+🤦‍♀️	mulher rostopalming
+🤦‍♀	mulher rostopalming
+🤦🏻‍♀️	mulher rostopalming: tom de pele claro
+🤦🏻‍♀	mulher rostopalming: tom de pele claro
+🤦🏼‍♀️	mulher rostopalming: tom de pele claro médio
+🤦🏼‍♀	mulher rostopalming: tom de pele claro médio
+🤦🏽‍♀️	mulher rostopalming: tom de pele médio
+🤦🏽‍♀	mulher rostopalming: tom de pele médio
+🤦🏾‍♀️	mulher rostopalming: tom de pele escuro médio
+🤦🏾‍♀	mulher rostopalming: tom de pele escuro médio
+🤦🏿‍♀️	mulher rostopalming: tom de pele escuro
+🤦🏿‍♀	mulher rostopalming: tom de pele escuro
+🤷	pessoa encolhendo os ombros
+🤷🏻	encolhendo os ombros: tom de pele claro
+🤷🏼	pessoa encolhendo os ombros: tom light pele
+🤷🏽	pessoa encolhendo os ombros: tom medio de pele
+🤷🏾	encolhendo os ombros: tom de pele escuro médio
+🤷🏿	encolhendo os ombros: tom de pele escuro
+🤷‍♂️	encolhendo os ombros homem
+🤷‍♂	encolhendo os ombros homem
+🤷🏻‍♂️	encolher os ombros homem: tom de pele claro
+🤷🏻‍♂	encolher os ombros homem: tom de pele claro
+🤷🏼‍♂️	encolher os ombros homem: tom de pele claro médio
+🤷🏼‍♂	encolher os ombros homem: tom de pele claro médio
+🤷🏽‍♂️	encolher os ombros homem: tom de pele médio
+🤷🏽‍♂	encolher os ombros homem: tom de pele médio
+🤷🏾‍♂️	encolher os ombros homem: tom de pele escuro médio
+🤷🏾‍♂	encolher os ombros homem: tom de pele escuro médio
+🤷🏿‍♂️	encolher os ombros homem: tom de pele escuro
+🤷🏿‍♂	encolher os ombros homem: tom de pele escuro
+🤷‍♀️	mulher encolhendo os ombros
+🤷‍♀	mulher encolhendo os ombros
+🤷🏻‍♀️	mulher encolhendo os ombros: tom de pele claro
+🤷🏻‍♀	mulher encolhendo os ombros: tom de pele claro
+🤷🏼‍♀️	mulher encolhendo os ombros: tom de pele claro médio
+🤷🏼‍♀	mulher encolhendo os ombros: tom de pele claro médio
+🤷🏽‍♀️	mulher encolhendo os ombros: tom de pele médio
+🤷🏽‍♀	mulher encolhendo os ombros: tom de pele médio
+🤷🏾‍♀️	mulher encolhendo os ombros: tom de pele escuro médio
+🤷🏾‍♀	mulher encolhendo os ombros: tom de pele escuro médio
+🤷🏿‍♀️	mulher encolhendo os ombros: tom de pele escuro
+🤷🏿‍♀	mulher encolhendo os ombros: tom de pele escuro
+💆	pessoa recebendo massagem
+💆🏻	pessoa recebendo massagem: tom de pele claro
+💆🏼	pessoa recebendo massagem: tom de pele claro médio
+💆🏽	pessoa recebendo massagem: Tom? diodo PE
+💆🏾	pessoa recebendo massagem: tom de pele meio escuro
+💆🏿	pessoa recebendo massagem: tom de pele escuro
+💆‍♂️	homem recebendo massagem
+💆‍♂	homem recebendo massagem
+💆🏻‍♂️	homem recebendo massagem: tom de pele claro
+💆🏻‍♂	homem recebendo massagem: tom de pele claro
+💆🏼‍♂️	homem recebendo massagem: tom de pele claro médio
+💆🏼‍♂	homem recebendo massagem: tom de pele claro médio
+💆🏽‍♂️	homem recebendo massagem: tom de pele médio
+💆🏽‍♂	homem recebendo massagem: tom de pele médio
+💆🏾‍♂️	homem recebendo massagem: tom de pele meio escuro
+💆🏾‍♂	homem recebendo massagem: tom de pele meio escuro
+💆🏿‍♂️	homem recebendo massagem: tom de pele escuro
+💆🏿‍♂	homem recebendo massagem: tom de pele escuro
+💆‍♀️	mulher recebendo massagem
+💆‍♀	mulher recebendo massagem
+💆🏻‍♀️	mulher recebendo massagem: tom de pele claro
+💆🏻‍♀	mulher recebendo massagem: tom de pele claro
+💆🏼‍♀️	mulher recebendo massagem: tom de pele claro médio
+💆🏼‍♀	mulher recebendo massagem: tom de pele claro médio
+💆🏽‍♀️	mulher recebendo massagem: tom de pele médio
+💆🏽‍♀	mulher recebendo massagem: tom de pele médio
+💆🏾‍♀️	mulher recebendo massagem: tom de pele meio escuro
+💆🏾‍♀	mulher recebendo massagem: tom de pele meio escuro
+💆🏿‍♀️	mulher recebendo massagem: tom de pele escuro
+💆🏿‍♀	mulher recebendo massagem: tom de pele escuro
+💇	pessoa cortando o cabelo
+💇🏻	pessoa cortando o cabelo: tom de pele claro
+💇🏼	pessoa cortando cabelo: tom tom claro
+💇🏽	pessoa cortando cabelo: Tom, diodo PE
+💇🏾	pessoa cortando o cabelo: tom de pele escuro médio
+💇🏿	pessoa cortando o cabelo: tom de pele escuro
+💇‍♂️	homem cortando cabelo
+💇‍♂	homem cortando cabelo
+💇🏻‍♂️	homem cortando cabelo: tom de pele claro
+💇🏻‍♂	homem cortando cabelo: tom de pele claro
+💇🏼‍♂️	homem cortando cabelo: tom de pele claro médio
+💇🏼‍♂	homem cortando cabelo: tom de pele claro médio
+💇🏽‍♂️	homem cortando cabelo: tom de pele médio
+💇🏽‍♂	homem cortando cabelo: tom de pele médio
+💇🏾‍♂️	homem cortando cabelo: tom de pele meio escuro
+💇🏾‍♂	homem cortando cabelo: tom de pele meio escuro
+💇🏿‍♂️	homem cortando cabelo: tom de pele escuro
+💇🏿‍♂	homem cortando cabelo: tom de pele escuro
+💇‍♀️	mulher cortando cabelo
+💇‍♀	mulher cortando cabelo
+💇🏻‍♀️	mulher cortando cabelo: tom de pele claro
+💇🏻‍♀	mulher cortando cabelo: tom de pele claro
+💇🏼‍♀️	mulher cortando cabelo: tom de pele claro médio
+💇🏼‍♀	mulher cortando cabelo: tom de pele claro médio
+💇🏽‍♀️	mulher cortando cabelo: tom de pele médio
+💇🏽‍♀	mulher cortando cabelo: tom de pele médio
+💇🏾‍♀️	mulher cortando cabelo: tom de pele escuro médio
+💇🏾‍♀	mulher cortando cabelo: tom de pele escuro médio
+💇🏿‍♀️	mulher cortando cabelo: tom de pele escuro
+💇🏿‍♀	mulher cortando cabelo: tom de pele escuro
+🚶	pessoa caminhando
+🚶🏻	pessoa caminhando: tom de pele claro
+🚶🏼	pessoa andando: tom médio claro de pele
+🚶🏽	pessoa caminhando: Tom, diodo PE
+🚶🏾	pessoa caminhando: tom de pele escuro médio
+🚶🏿	pessoa caminhando: tom de pele escuro
+🚶‍♂️	homem caminhando
+🚶‍♂	homem caminhando
+🚶🏻‍♂️	homem andando: tom de pele claro
+🚶🏻‍♂	homem andando: tom de pele claro
+🚶🏼‍♂️	homem caminhando: tom de pele claro médio
+🚶🏼‍♂	homem caminhando: tom de pele claro médio
+🚶🏽‍♂️	homem caminhando: tom de pele médio
+🚶🏽‍♂	homem caminhando: tom de pele médio
+🚶🏾‍♂️	homem caminhando: tom de pele escuro médio
+🚶🏾‍♂	homem caminhando: tom de pele escuro médio
+🚶🏿‍♂️	homem andando: tom de pele escuro
+🚶🏿‍♂	homem andando: tom de pele escuro
+🚶‍♀️	mulher caminhando
+🚶‍♀	mulher caminhando
+🚶🏻‍♀️	mulher caminhando: tom de pele claro
+🚶🏻‍♀	mulher caminhando: tom de pele claro
+🚶🏼‍♀️	mulher caminhando: tom de pele claro médio
+🚶🏼‍♀	mulher caminhando: tom de pele claro médio
+🚶🏽‍♀️	mulher caminhando: tom de pele médio
+🚶🏽‍♀	mulher caminhando: tom de pele médio
+🚶🏾‍♀️	mulher caminhando: tom de pele escuro médio
+🚶🏾‍♀	mulher caminhando: tom de pele escuro médio
+🚶🏿‍♀️	mulher caminhando: tom de pele escuro
+🚶🏿‍♀	mulher caminhando: tom de pele escuro
+🏃	pessoa correndo
+🏃🏻	pessoa correndo: tom de pele claro
+🏃🏼	pessoa correndo: tom leve médio pele
+🏃🏽	pessoa correndo: Tom, diodo PE
+🏃🏾	pessoa correndo: tom de pele escuro médio
+🏃🏿	pessoa correndo: tom de pele escuro
+🏃‍♂️	homem correndo
+🏃‍♂	homem correndo
+🏃🏻‍♂️	homem correndo: tom de pele claro
+🏃🏻‍♂	homem correndo: tom de pele claro
+🏃🏼‍♂️	homem correndo: tom de pele claro médio
+🏃🏼‍♂	homem correndo: tom de pele claro médio
+🏃🏽‍♂️	homem correndo: tom de pele médio
+🏃🏽‍♂	homem correndo: tom de pele médio
+🏃🏾‍♂️	homem correndo: tom de pele escuro médio
+🏃🏾‍♂	homem correndo: tom de pele escuro médio
+🏃🏿‍♂️	homem correndo: tom de pele escuro
+🏃🏿‍♂	homem correndo: tom de pele escuro
+🏃‍♀️	mulher correndo
+🏃‍♀	mulher correndo
+🏃🏻‍♀️	mulher correndo: tom de pele claro
+🏃🏻‍♀	mulher correndo: tom de pele claro
+🏃🏼‍♀️	mulher correndo: tom de pele claro médio
+🏃🏼‍♀	mulher correndo: tom de pele claro médio
+🏃🏽‍♀️	mulher correndo: tom de pele médio
+🏃🏽‍♀	mulher correndo: tom de pele médio
+🏃🏾‍♀️	mulher correndo: tom de pele escuro médio
+🏃🏾‍♀	mulher correndo: tom de pele escuro médio
+🏃🏿‍♀️	mulher correndo: tom de pele escuro
+🏃🏿‍♀	mulher correndo: tom de pele escuro
+💃	dançarina
+💃🏻	mulher dançando: tom de pele claro
+💃🏼	mulher dançando: tom de pele claro médio
+💃🏽	mulher dançando: tom de pele médio
+💃🏾	mulher dançando: tom de pele meio escuro
+💃🏿	mulher dançando: tom de pele escuro
+🕺	homem dançando
+🕺🏻	homem dançando: tom de pele claro
+🕺🏼	homem dançando: tom de pele claro médio
+🕺🏽	homem dançando: tom de pele médio
+🕺🏾	homem dançando: tom de pele escuro médio
+🕺🏿	homem dançando: tom de pele escuro
+👯	pessoas com orelhas de coelho
+👯‍♂️	homens com orelhas de coelho
+👯‍♂	homens com orelhas de coelho
+👯‍♀️	mulheres com orelhas de coelho
+👯‍♀	mulheres com orelhas de coelho
+🧖	pessoa da sala cheia de vapor
+🧖🏻	pessoa com vapor: tom de pele claro
+🧖🏼	pessoa da sala úmida: tom tom tom claro da pele
+🧖🏽	pessoa da sala úmida: tom medio de pele
+🧖🏾	pessoa com vapor: tom de pele escuro médio
+🧖🏿	pessoa de sala úmida: tom de pele escuro
+🧖‍♀️	mulher sala cheia de vapor
+🧖‍♀	mulher sala cheia de vapor
+🧖🏻‍♀️	mulher com sala cheia de vapor: tom de pele claro
+🧖🏻‍♀	mulher com sala cheia de vapor: tom de pele claro
+🧖🏼‍♀️	mulher com quarto cheio de vapor: tom de pele claro médio
+🧖🏼‍♀	mulher com quarto cheio de vapor: tom de pele claro médio
+🧖🏽‍♀️	mulher com sala cheia de vapor: tom de pele médio
+🧖🏽‍♀	mulher com sala cheia de vapor: tom de pele médio
+🧖🏾‍♀️	mulher com quarto cheio de vapor: tom de pele escuro médio
+🧖🏾‍♀	mulher com quarto cheio de vapor: tom de pele escuro médio
+🧖🏿‍♀️	mulher de sala cheia de vapor: tom de pele escuro
+🧖🏿‍♀	mulher de sala cheia de vapor: tom de pele escuro
+🧖‍♂️	homem da sala cheia de vapor
+🧖‍♂	homem da sala cheia de vapor
+🧖🏻‍♂️	homem cheio de vapor: tom de pele claro
+🧖🏻‍♂	homem cheio de vapor: tom de pele claro
+🧖🏼‍♂️	homem cheio de vapor: tom de pele claro médio
+🧖🏼‍♂	homem cheio de vapor: tom de pele claro médio
+🧖🏽‍♂️	homem cheio de vapor: tom de pele médio
+🧖🏽‍♂	homem cheio de vapor: tom de pele médio
+🧖🏾‍♂️	homem cheio de vapor: tom de pele escuro médio
+🧖🏾‍♂	homem cheio de vapor: tom de pele escuro médio
+🧖🏿‍♂️	homem da sala cheia de vapor: tom de pele escuro
+🧖🏿‍♂	homem da sala cheia de vapor: tom de pele escuro
+🧗	pessoa escalando
+🧗🏻	escalada de pessoa: tom de pele claro
+🧗🏼	pessoa escalando: tom tom de pele clara
+🧗🏽	pessoa escalando: Tom, diodo PE
+🧗🏾	escalada de pessoa: tom de pele escuro médio
+🧗🏿	pessoa escalando: tom de pele escuro
+🧗‍♀️	escalada mulher
+🧗‍♀	escalada mulher
+🧗🏻‍♀️	mulher escalando: tom de pele claro
+🧗🏻‍♀	mulher escalando: tom de pele claro
+🧗🏼‍♀️	mulher escalando: tom de pele claro médio
+🧗🏼‍♀	mulher escalando: tom de pele claro médio
+🧗🏽‍♀️	escalada mulher: tom de pele médio
+🧗🏽‍♀	escalada mulher: tom de pele médio
+🧗🏾‍♀️	mulher escalando: tom de pele meio escuro
+🧗🏾‍♀	mulher escalando: tom de pele meio escuro
+🧗🏿‍♀️	mulher escalando: tom de pele escuro
+🧗🏿‍♀	mulher escalando: tom de pele escuro
+🧗‍♂️	escalando homem
+🧗‍♂	escalando homem
+🧗🏻‍♂️	homem escalando: tom de pele claro
+🧗🏻‍♂	homem escalando: tom de pele claro
+🧗🏼‍♂️	homem escalando: tom de pele claro médio
+🧗🏼‍♂	homem escalando: tom de pele claro médio
+🧗🏽‍♂️	escalador: tom de pele médio
+🧗🏽‍♂	escalador: tom de pele médio
+🧗🏾‍♂️	escalador: tom de pele escuro médio
+🧗🏾‍♂	escalador: tom de pele escuro médio
+🧗🏿‍♂️	homem escalando: tom de pele escuro
+🧗🏿‍♂	homem escalando: tom de pele escuro
+🧘	posição de lótus da pessoa
+🧘🏻	Posição de lótus da pessoa: PE de Tom CLA RO
+🧘🏼	pessoa em posição de lótus: tom médio claro de pele
+🧘🏽	Posição de lótus da pessoa: Tom, diodo PE
+🧘🏾	pessoa de posição de lótus: tom escuro medio de pele
+🧘🏿	posição de pessoa de lótus: tom escuro de pele
+🧘‍♀️	mulher em posição de lótus
+🧘‍♀	mulher em posição de lótus
+🧘🏻‍♀️	mulher em posição de lótus: tom de pele claro
+🧘🏻‍♀	mulher em posição de lótus: tom de pele claro
+🧘🏼‍♀️	mulher em posição de lótus: tom de pele claro médio
+🧘🏼‍♀	mulher em posição de lótus: tom de pele claro médio
+🧘🏽‍♀️	mulher em posição de lótus: tom de pele médio
+🧘🏽‍♀	mulher em posição de lótus: tom de pele médio
+🧘🏾‍♀️	mulher em posição de lótus: tom de pele escuro médio
+🧘🏾‍♀	mulher em posição de lótus: tom de pele escuro médio
+🧘🏿‍♀️	mulher em posição de lótus: tom de pele escuro
+🧘🏿‍♀	mulher em posição de lótus: tom de pele escuro
+🧘‍♂️	posição de lótus homem
+🧘‍♂	posição de lótus homem
+🧘🏻‍♂️	posição de lótus homem: tom de pele claro
+🧘🏻‍♂	posição de lótus homem: tom de pele claro
+🧘🏼‍♂️	posição de lótus homem: tom de pele claro médio
+🧘🏼‍♂	posição de lótus homem: tom de pele claro médio
+🧘🏽‍♂️	posição de lótus homem: tom de pele médio
+🧘🏽‍♂	posição de lótus homem: tom de pele médio
+🧘🏾‍♂️	posição de lótus homem: tom de pele escuro médio
+🧘🏾‍♂	posição de lótus homem: tom de pele escuro médio
+🧘🏿‍♂️	posição de lótus homem: tom de pele escuro
+🧘🏿‍♂	posição de lótus homem: tom de pele escuro
+🛀	pessoa tomando banho
+🛀🏻	pessoa tomando banho: tom de pele claro
+🛀🏼	pessoa tomando banho: Tom Medio Claro de Pele
+🛀🏽	pessoa tomando banho: Tom, diodo PE
+🛀🏾	pessoa tomando banho: tom de pele meio escuro
+🛀🏿	pessoa tomando banho: tom de pele escuro
+🛌	cama de pessoa
+🛌🏻	pessoa de cama: tom de pele claro
+🛌🏼	pessoa de cama: tom médio leve pele
+🛌🏽	cama da pessoa: Tom, diodo PE
+🛌🏾	pessoa de cama: tom de pele escuro médio
+🛌🏿	pessoa de cama: tom de pele escuro
+🕴️	homem de terno levitando
+🕴	homem de terno levitando
+🕴🏻	homem de terno levitando: tom de pele claro
+🕴🏼	homem em um terno levitante: tom de pele claro médio
+🕴🏽	homem de terno levitando: tom de pele médio
+🕴🏾	homem de terno levitando: tom de pele meio escuro
+🕴🏿	homem de terno levitando: tom de pele escuro
+🗣️	cabeça falando
+🗣	cabeça falando
+👤	silhueta do busto
+👥	silhueta do busto
+🤺	Esgrima de pessoa
+🏇	corrida de cavalos
+🏇🏻	corrida de cavalos: tom de pele claro
+🏇🏼	corridas de cavalos: tom de pele claro médio
+🏇🏽	corrida de cavalos: tom de pele médio
+🏇🏾	corridas de cavalos: tom de pele escuro médio
+🏇🏿	corridas de cavalos: tom de pele escuro
+⛷️	esquiador
+⛷	esqui
+🏂	snowboarder
+🏂🏻	snowboarder: tom de pele claro
+🏂🏼	snowboarder: tom de pele claro médio
+🏂🏽	snowboarder: Tom é diodo PE
+🏂🏾	snowboarder: tom de pele escuro médio
+🏂🏿	snowboarder: tom de pele escuro
+🏌️	pessoa jogando golfe
+🏌	pessoa jogando golfe
+🏌🏻	pessoa jogando golfe: tom de pele claro
+🏌🏼	pessoa golfe: tom médio claro de pele
+🏌🏽	pessoa jogando golfe: Tom, diodo PE
+🏌🏾	pessoa jogando golfe: meio tom escuro de pele
+🏌🏿	pessoa jogando golfe: tom de pele escuro
+🏌️‍♂️	jogador de golfe
+🏌‍♂️	jogador de golfe
+🏌️‍♂	jogador de golfe
+🏌‍♂	jogador de golfe
+🏌🏻‍♂️	jogador de golfe: tom de pele claro
+🏌🏻‍♂	jogador de golfe: tom de pele claro
+🏌🏼‍♂️	jogador de golfe: tom de pele claro médio
+🏌🏼‍♂	jogador de golfe: tom de pele claro médio
+🏌🏽‍♂️	jogador de golfe: tom de pele médio
+🏌🏽‍♂	jogador de golfe: tom de pele médio
+🏌🏾‍♂️	jogador de golfe: tom de pele meio escuro
+🏌🏾‍♂	jogador de golfe: tom de pele meio escuro
+🏌🏿‍♂️	jogador de golfe: tom de pele escuro
+🏌🏿‍♂	jogador de golfe: tom de pele escuro
+🏌️‍♀️	mulher que joga golfe
+🏌‍♀️	mulher que joga golfe
+🏌️‍♀	mulher que joga golfe
+🏌‍♀	mulher que joga golfe
+🏌🏻‍♀️	mulher que joga golfe: tom de pele claro
+🏌🏻‍♀	mulher que joga golfe: tom de pele claro
+🏌🏼‍♀️	mulher que joga golfe: tom de pele claro médio
+🏌🏼‍♀	mulher que joga golfe: tom de pele claro médio
+🏌🏽‍♀️	mulher que joga golfe: tom de pele médio
+🏌🏽‍♀	mulher que joga golfe: tom de pele médio
+🏌🏾‍♀️	mulher que joga golfe: tom de pele meio escuro
+🏌🏾‍♀	mulher que joga golfe: tom de pele meio escuro
+🏌🏿‍♀️	mulher que joga golfe: tom de pele escuro
+🏌🏿‍♀	mulher que joga golfe: tom de pele escuro
+🏄	pessoa surfando
+🏄🏻	person surfing: light skin tone
+🏄🏼	person surfing: medium light skin tone
+🏄🏽	person surfing: medium skin tone
+🏄🏾	person surfing: medium dark skin tone
+🏄🏿	person surfing: dark skin tone
+🏄‍♂️	surfista
+🏄‍♂	surfista
+🏄🏻‍♂️	surfista: tom de pele claro
+🏄🏻‍♂	surfista: tom de pele claro
+🏄🏼‍♂️	surfista: tom de pele claro médio
+🏄🏼‍♂	surfista: tom de pele claro médio
+🏄🏽‍♂️	surfista: tom de pele médio
+🏄🏽‍♂	surfista: tom de pele médio
+🏄🏾‍♂️	surfista: tom de pele meio escuro
+🏄🏾‍♂	surfista: tom de pele meio escuro
+🏄🏿‍♂️	surfista: tom de pele escuro
+🏄🏿‍♂	surfista: tom de pele escuro
+🏄‍♀️	surfista
+🏄‍♀	surfista
+🏄🏻‍♀️	mulher surfista: tom de pele claro
+🏄🏻‍♀	mulher surfista: tom de pele claro
+🏄🏼‍♀️	mulher surfista: tom de pele claro médio
+🏄🏼‍♀	mulher surfista: tom de pele claro médio
+🏄🏽‍♀️	mulher surfista: tom de pele médio
+🏄🏽‍♀	mulher surfista: tom de pele médio
+🏄🏾‍♀️	mulher surfista: tom de pele meio escuro
+🏄🏾‍♀	mulher surfista: tom de pele meio escuro
+🏄🏿‍♀️	mulher surfista: tom de pele escuro
+🏄🏿‍♀	mulher surfista: tom de pele escuro
+🚣	barco a remo pessoa
+🚣🏻	barco a remo pessoa: tom de pele claro
+🚣🏼	barco a remo pessoa: tom de pele claro médio
+🚣🏽	barco a remo pessoa: tom de pele médio
+🚣🏾	barco a remo pessoa: tom de pele escuro médio
+🚣🏿	barco a remo pessoa: tom de pele escuro
+🚣‍♂️	barco a remo homem
+🚣‍♂	barco a remo homem
+🚣🏻‍♂️	homem do barco a remo: tom de pele claro
+🚣🏻‍♂	homem do barco a remo: tom de pele claro
+🚣🏼‍♂️	homem do barco a remo: tom de pele claro médio
+🚣🏼‍♂	homem do barco a remo: tom de pele claro médio
+🚣🏽‍♂️	homem barco a remo: tom de pele médio
+🚣🏽‍♂	homem barco a remo: tom de pele médio
+🚣🏾‍♂️	homem de barco a remo: tom de pele meio escuro
+🚣🏾‍♂	homem de barco a remo: tom de pele meio escuro
+🚣🏿‍♂️	barco a remo homem: tom de pele escuro
+🚣🏿‍♂	barco a remo homem: tom de pele escuro
+🚣‍♀️	mulher barco a remo
+🚣‍♀	mulher barco a remo
+🚣🏻‍♀️	mulher barco a remo: tom de pele claro
+🚣🏻‍♀	mulher barco a remo: tom de pele claro
+🚣🏼‍♀️	mulher barco a remo: tom de pele claro médio
+🚣🏼‍♀	mulher barco a remo: tom de pele claro médio
+🚣🏽‍♀️	mulher barco a remo: tom de pele médio
+🚣🏽‍♀	mulher barco a remo: tom de pele médio
+🚣🏾‍♀️	mulher barco a remo: tom de pele meio escuro
+🚣🏾‍♀	mulher barco a remo: tom de pele meio escuro
+🚣🏿‍♀️	barco a remo feminino: tom de pele escuro
+🚣🏿‍♀	barco a remo feminino: tom de pele escuro
+🏊	pessoa nadando
+🏊🏻	pessoa nadando: tom de pele claro
+🏊🏼	pessoa nadando: tom tom de pele clara
+🏊🏽	nadando: Tom, diodo PE
+🏊🏾	pessoa nadando: tom de pele escuro médio
+🏊🏿	pessoa nadando: tom de pele escuro
+🏊‍♂️	nadador
+🏊‍♂	nadador
+🏊🏻‍♂️	nadador: tom de pele claro
+🏊🏻‍♂	nadador: tom de pele claro
+🏊🏼‍♂️	nadador: tom de pele claro médio
+🏊🏼‍♂	nadador: tom de pele claro médio
+🏊🏽‍♂️	nadador: tom de pele médio
+🏊🏽‍♂	nadador: tom de pele médio
+🏊🏾‍♂️	nadador: tom de pele meio escuro
+🏊🏾‍♂	nadador: tom de pele meio escuro
+🏊🏿‍♂️	nadador: tom de pele escuro
+🏊🏿‍♂	nadador: tom de pele escuro
+🏊‍♀️	nadadora
+🏊‍♀	nadadora
+🏊🏻‍♀️	nadadora: tom de pele claro
+🏊🏻‍♀	nadadora: tom de pele claro
+🏊🏼‍♀️	nadadora: tom de pele claro médio
+🏊🏼‍♀	nadadora: tom de pele claro médio
+🏊🏽‍♀️	nadadora: tom de pele médio
+🏊🏽‍♀	nadadora: tom de pele médio
+🏊🏾‍♀️	nadadora: tom de pele meio escuro
+🏊🏾‍♀	nadadora: tom de pele meio escuro
+🏊🏿‍♀️	nadadora: tom de pele escuro
+🏊🏿‍♀	nadadora: tom de pele escuro
+⛹️	pessoa quicando bola
+⛹	pessoa quicando bola
+⛹🏻	bola quicando: tom de pele claro
+⛹🏼	pessoa jogando bola: tom médio leve pele
+⛹🏽	pessoa jogando bola: Tom, diodo PE
+⛹🏾	pessoa quicando bola: tom médio escuro de pele
+⛹🏿	bola quicando da pessoa: tom de pele escuro
+⛹️‍♂️	homem bola quicando
+⛹‍♂️	homem bola quicando
+⛹️‍♂	homem bola quicando
+⛹‍♂	homem bola quicando
+⛹🏻‍♂️	homem bola quicando: tom de pele claro
+⛹🏻‍♂	homem bola quicando: tom de pele claro
+⛹🏼‍♂️	homem bola quicando: tom de pele claro médio
+⛹🏼‍♂	homem bola quicando: tom de pele claro médio
+⛹🏽‍♂️	homem bola quicando: tom de pele médio
+⛹🏽‍♂	homem bola quicando: tom de pele médio
+⛹🏾‍♂️	bola quicando homem: tom de pele escuro médio
+⛹🏾‍♂	bola quicando homem: tom de pele escuro médio
+⛹🏿‍♂️	bola quicando homem: tom de pele escuro
+⛹🏿‍♂	bola quicando homem: tom de pele escuro
+⛹️‍♀️	mulher bola quicando
+⛹‍♀️	mulher bola quicando
+⛹️‍♀	mulher bola quicando
+⛹‍♀	mulher bola quicando
+⛹🏻‍♀️	mulher bola quicando: tom de pele claro
+⛹🏻‍♀	mulher bola quicando: tom de pele claro
+⛹🏼‍♀️	bola quicando mulher: tom de pele claro médio
+⛹🏼‍♀	bola quicando mulher: tom de pele claro médio
+⛹🏽‍♀️	mulher bola quicando: tom de pele médio
+⛹🏽‍♀	mulher bola quicando: tom de pele médio
+⛹🏾‍♀️	mulher bola quicando: tom de pele escuro médio
+⛹🏾‍♀	mulher bola quicando: tom de pele escuro médio
+⛹🏿‍♀️	mulher bola quicando: tom de pele escuro
+⛹🏿‍♀	mulher bola quicando: tom de pele escuro
+🏋️	pessoa levantando pesos
+🏋	pessoa levantando pesos
+🏋🏻	pessoa levantando peso: tom de pele claro
+🏋🏼	pessoa levantando peso: Tom med IOC picante RO's PE
+🏋🏽	pessoa levantando pesos: Tom, diodo PE
+🏋🏾	pessoa levantando pesos: tom de pele escuro médio
+🏋🏿	pessoa levantando pesos: tom de pele escuro
+🏋️‍♂️	homem levantando pesos
+🏋‍♂️	homem levantando pesos
+🏋️‍♂	homem levantando pesos
+🏋‍♂	homem levantando pesos
+🏋🏻‍♂️	homem levantando pesos: tom de pele claro
+🏋🏻‍♂	homem levantando pesos: tom de pele claro
+🏋🏼‍♂️	levantamento de peso homem: tom de pele claro médio
+🏋🏼‍♂	levantamento de peso homem: tom de pele claro médio
+🏋🏽‍♂️	homem levantando pesos: tom de pele médio
+🏋🏽‍♂	homem levantando pesos: tom de pele médio
+🏋🏾‍♂️	homem levantando pesos: tom de pele meio escuro
+🏋🏾‍♂	homem levantando pesos: tom de pele meio escuro
+🏋🏿‍♂️	homem levantando pesos: tom de pele escuro
+🏋🏿‍♂	homem levantando pesos: tom de pele escuro
+🏋️‍♀️	mulher levantando pesos
+🏋‍♀️	mulher levantando pesos
+🏋️‍♀	mulher levantando pesos
+🏋‍♀	mulher levantando pesos
+🏋🏻‍♀️	mulher levantando pesos: tom de pele claro
+🏋🏻‍♀	mulher levantando pesos: tom de pele claro
+🏋🏼‍♀️	mulher levantando pesos: tom de pele claro médio
+🏋🏼‍♀	mulher levantando pesos: tom de pele claro médio
+🏋🏽‍♀️	mulher levantando pesos: tom de pele médio
+🏋🏽‍♀	mulher levantando pesos: tom de pele médio
+🏋🏾‍♀️	mulher levantando pesos: tom de pele escuro médio
+🏋🏾‍♀	mulher levantando pesos: tom de pele escuro médio
+🏋🏿‍♀️	mulher levantando pesos: tom de pele escuro
+🏋🏿‍♀	mulher levantando pesos: tom de pele escuro
+🚴	pessoa de bicicleta
+🚴🏻	ciclismo pessoa: tom de pele claro
+🚴🏼	ciclismo de pessoa: tom light pele
+🚴🏽	Pessoa é melhor do que rei: Tom, diodo PE
+🚴🏾	pessoa a andar de bicicleta: tom de pele meio escuro
+🚴🏿	ciclismo pessoa: tom de pele escuro
+🚴‍♂️	homem de bicicleta
+🚴‍♂	homem de bicicleta
+🚴🏻‍♂️	homem ciclista: tom de pele claro
+🚴🏻‍♂	homem ciclista: tom de pele claro
+🚴🏼‍♂️	homem ciclista: tom de pele claro médio
+🚴🏼‍♂	homem ciclista: tom de pele claro médio
+🚴🏽‍♂️	homem ciclista: tom de pele médio
+🚴🏽‍♂	homem ciclista: tom de pele médio
+🚴🏾‍♂️	homem ciclista: tom de pele escuro médio
+🚴🏾‍♂	homem ciclista: tom de pele escuro médio
+🚴🏿‍♂️	homem ciclista: tom de pele escuro
+🚴🏿‍♂	homem ciclista: tom de pele escuro
+🚴‍♀️	mulher de bicicleta
+🚴‍♀	mulher de bicicleta
+🚴🏻‍♀️	mulher de bicicleta: tom de pele claro
+🚴🏻‍♀	mulher de bicicleta: tom de pele claro
+🚴🏼‍♀️	mulher de bicicleta: tom de pele claro médio
+🚴🏼‍♀	mulher de bicicleta: tom de pele claro médio
+🚴🏽‍♀️	mulher de bicicleta: tom de pele médio
+🚴🏽‍♀	mulher de bicicleta: tom de pele médio
+🚴🏾‍♀️	mulher de bicicleta: tom de pele escuro médio
+🚴🏾‍♀	mulher de bicicleta: tom de pele escuro médio
+🚴🏿‍♀️	mulher de bicicleta: tom de pele escuro
+🚴🏿‍♀	mulher de bicicleta: tom de pele escuro
+🚵	pessoa mountain bike
+🚵🏻	Montanha de pessoa é melhor que rei: PE de Tom CLA RO
+🚵🏼	Montanha de pessoa é o melhor que rei: PE de RO de Tom med IOC é mais quente
+🚵🏽	Montanha de pessoa é melhor que rei: Tom, diodo PE
+🚵🏾	pessoa mountain bike: tom de pele meio escuro
+🚵🏿	pessoa mountain bike: tom de pele escuro
+🚵‍♂️	homem de mountain bike
+🚵‍♂	homem de mountain bike
+🚵🏻‍♂️	mountain bike man: tom de pele claro
+🚵🏻‍♂	mountain bike man: tom de pele claro
+🚵🏼‍♂️	mountain bike man: tom de pele claro médio
+🚵🏼‍♂	mountain bike man: tom de pele claro médio
+🚵🏽‍♂️	mountain bike man: tom de pele médio
+🚵🏽‍♂	mountain bike man: tom de pele médio
+🚵🏾‍♂️	mountain bike man: tom de pele meio escuro
+🚵🏾‍♂	mountain bike man: tom de pele meio escuro
+🚵🏿‍♂️	mountain bike man: tom de pele escuro
+🚵🏿‍♂	mountain bike man: tom de pele escuro
+🚵‍♀️	mulher que faz mountain bike
+🚵‍♀	mulher que faz mountain bike
+🚵🏻‍♀️	mulher que faz mountain bike: tom de pele claro
+🚵🏻‍♀	mulher que faz mountain bike: tom de pele claro
+🚵🏼‍♀️	mulher que pratica mountain bike: tom de pele claro médio
+🚵🏼‍♀	mulher que pratica mountain bike: tom de pele claro médio
+🚵🏽‍♀️	mulher que pratica mountain bike: tom de pele médio
+🚵🏽‍♀	mulher que pratica mountain bike: tom de pele médio
+🚵🏾‍♀️	mulher que pratica mountain bike: tom de pele meio escuro
+🚵🏾‍♀	mulher que pratica mountain bike: tom de pele meio escuro
+🚵🏿‍♀️	mulher que pratica mountain bike: tom de pele escuro
+🚵🏿‍♀	mulher que pratica mountain bike: tom de pele escuro
+🏎️	carro de corrida
+🏎	carro de corrida
+🏍️	motocicleta
+🏍	motocicleta
+🤸	pessoa fazendo piruetas
+🤸🏻	pessoa fazendo piruetas: tom clear de pele
+🤸🏼	pessoa cambalhotas: tom dando tom de pele clara
+🤸🏽	pessoa cambalhotas: tom medium dando pele
+🤸🏾	pessoa cambalhotas: tom escuro meio pele
+🤸🏿	pessoa em disparada: tom de pele escuro
+🤸‍♂️	homem saltitante
+🤸‍♂	homem saltitante
+🤸🏻‍♂️	homem saltitante: tom de pele claro
+🤸🏻‍♂	homem saltitante: tom de pele claro
+🤸🏼‍♂️	homem saltitante: tom de pele claro médio
+🤸🏼‍♂	homem saltitante: tom de pele claro médio
+🤸🏽‍♂️	homem saltitante: tom de pele médio
+🤸🏽‍♂	homem saltitante: tom de pele médio
+🤸🏾‍♂️	homem saltitante: tom de pele meio escuro
+🤸🏾‍♂	homem saltitante: tom de pele meio escuro
+🤸🏿‍♂️	homem saltitante: tom de pele escuro
+🤸🏿‍♂	homem saltitante: tom de pele escuro
+🤸‍♀️	mulher saltitante
+🤸‍♀	mulher saltitante
+🤸🏻‍♀️	mulher em movimento: tom de pele claro
+🤸🏻‍♀	mulher em movimento: tom de pele claro
+🤸🏼‍♀️	mulher em movimento: tom de pele claro médio
+🤸🏼‍♀	mulher em movimento: tom de pele claro médio
+🤸🏽‍♀️	mulher em movimento: tom de pele médio
+🤸🏽‍♀	mulher em movimento: tom de pele médio
+🤸🏾‍♀️	mulher em movimento: tom de pele escuro médio
+🤸🏾‍♀	mulher em movimento: tom de pele escuro médio
+🤸🏿‍♀️	mulher saltitante: tom de pele escuro
+🤸🏿‍♀	mulher saltitante: tom de pele escuro
+🤼	pessoas lutando
+🤼‍♂️	homens lutando
+🤼‍♂	homens lutando
+🤼‍♀️	Nós lutamos
+🤼‍♀	Nós lutamos
+🤽	pessoa jogando pólo aquático
+🤽🏻	pessoa jogando pólo aquático: tom sem pele
+🤽🏼	pessoa jogando pólo aquático: limpar metade da pele
+🤽🏽	pessoa jogando pólo aquático: tom médio de pele
+🤽🏾	pessoa jogando pólo aquático: tom escuro médio de pele
+🤽🏿	pessoa jogando pólo aquático: tom de pele escura
+🤽‍♂️	homem jogando pólo aquático
+🤽‍♂	homem jogando pólo aquático
+🤽🏻‍♂️	homem jogando pólo aquático: tom de pele claro
+🤽🏻‍♂	homem jogando pólo aquático: tom de pele claro
+🤽🏼‍♂️	homem jogando pólo aquático: tom de pele claro médio
+🤽🏼‍♂	homem jogando pólo aquático: tom de pele claro médio
+🤽🏽‍♂️	homem jogando pólo aquático: tom de pele médio
+🤽🏽‍♂	homem jogando pólo aquático: tom de pele médio
+🤽🏾‍♂️	homem jogando pólo aquático: tom de pele escuro médio
+🤽🏾‍♂	homem jogando pólo aquático: tom de pele escuro médio
+🤽🏿‍♂️	homem jogando pólo aquático: tom de pele escuro
+🤽🏿‍♂	homem jogando pólo aquático: tom de pele escuro
+🤽‍♀️	mulher jogando pólo aquático
+🤽‍♀	mulher jogando pólo aquático
+🤽🏻‍♀️	mulher jogando pólo aquático: tom de pele claro
+🤽🏻‍♀	mulher jogando pólo aquático: tom de pele claro
+🤽🏼‍♀️	mulher jogando pólo aquático: tom de pele claro médio
+🤽🏼‍♀	mulher jogando pólo aquático: tom de pele claro médio
+🤽🏽‍♀️	mulher jogando pólo aquático: tom de pele médio
+🤽🏽‍♀	mulher jogando pólo aquático: tom de pele médio
+🤽🏾‍♀️	mulher jogando pólo aquático: tom de pele escuro médio
+🤽🏾‍♀	mulher jogando pólo aquático: tom de pele escuro médio
+🤽🏿‍♀️	mulher jogando pólo aquático: tom de pele escuro
+🤽🏿‍♀	mulher jogando pólo aquático: tom de pele escuro
+🤾	pessoa jogando mao mãoball
+🤾🏻	pessoa jogando mao mãoball: tom claro de pele
+🤾🏼	pessoa jogando mao mãoball: tom medio claro de pele
+🤾🏽	pessoa jogando mao mãoball: tom medio de pele
+🤾🏾	pessoa jogando mao mãoball: tom médio escuro de pele
+🤾🏿	pessoa jogando handebol de mao: tom de pele escuro
+🤾‍♂️	homem jogando hando ball
+🤾‍♂	homem jogando hando ball
+🤾🏻‍♂️	homem jogando handebol: tom de pele claro
+🤾🏻‍♂	homem jogando handebol: tom de pele claro
+🤾🏼‍♂️	homem jogando handebol: tom de pele claro médio
+🤾🏼‍♂	homem jogando handebol: tom de pele claro médio
+🤾🏽‍♂️	homem jogando handebol: tom de pele médio
+🤾🏽‍♂	homem jogando handebol: tom de pele médio
+🤾🏾‍♂️	homem jogando handebol: tom de pele meio escuro
+🤾🏾‍♂	homem jogando handebol: tom de pele meio escuro
+🤾🏿‍♂️	homem jogando handebol: tom de pele escuro
+🤾🏿‍♂	homem jogando handebol: tom de pele escuro
+🤾‍♀️	mulher jogando handebol
+🤾‍♀	mulher jogando handebol
+🤾🏻‍♀️	mulher jogando handebol: tom de pele claro
+🤾🏻‍♀	mulher jogando handebol: tom de pele claro
+🤾🏼‍♀️	mulher jogando handebol: tom de pele claro médio
+🤾🏼‍♀	mulher jogando handebol: tom de pele claro médio
+🤾🏽‍♀️	mulher jogando handebol: tom de pele médio
+🤾🏽‍♀	mulher jogando handebol: tom de pele médio
+🤾🏾‍♀️	mulher jogando handebol: tom de pele meio escuro
+🤾🏾‍♀	mulher jogando handebol: tom de pele meio escuro
+🤾🏿‍♀️	mulher jogando handebol: tom de pele escuro
+🤾🏿‍♀	mulher jogando handebol: tom de pele escuro
+🤹	malabarista
+🤹🏻	malabarismo de pessoa: tom de pele claro
+🤹🏼	malabarismo pessoa: tom meio claro pele
+🤹🏽	malabarismo pessoa: tom médio pele
+🤹🏾	malabarismo de pessoa: tom de pele meio escuro
+🤹🏿	malabarismo de pessoa: tom de pele escuro
+🤹‍♂️	homem malabarismo
+🤹‍♂	homem malabarismo
+🤹🏻‍♂️	malabarismo de homem: tom de pele claro
+🤹🏻‍♂	malabarismo de homem: tom de pele claro
+🤹🏼‍♂️	malabarismo de homem: tom de pele claro médio
+🤹🏼‍♂	malabarismo de homem: tom de pele claro médio
+🤹🏽‍♂️	malabarismo de homem: tom de pele médio
+🤹🏽‍♂	malabarismo de homem: tom de pele médio
+🤹🏾‍♂️	malabarismo de homem: tom de pele meio escuro
+🤹🏾‍♂	malabarismo de homem: tom de pele meio escuro
+🤹🏿‍♂️	malabarismo de homem: tom de pele escuro
+🤹🏿‍♂	malabarismo de homem: tom de pele escuro
+🤹‍♀️	mulher malabarista
+🤹‍♀	mulher malabarista
+🤹🏻‍♀️	mulher fazendo malabarismo: tom de pele claro
+🤹🏻‍♀	mulher fazendo malabarismo: tom de pele claro
+🤹🏼‍♀️	mulher malabarista: tom de pele meio claro
+🤹🏼‍♀	mulher malabarista: tom de pele meio claro
+🤹🏽‍♀️	malabarismo de mulher: tom de pele médio
+🤹🏽‍♀	malabarismo de mulher: tom de pele médio
+🤹🏾‍♀️	malabarismo feminino: tom de pele meio escuro
+🤹🏾‍♀	malabarismo feminino: tom de pele meio escuro
+🤹🏿‍♀️	mulher fazendo malabarismo: tom de pele escuro
+🤹🏿‍♀	mulher fazendo malabarismo: tom de pele escuro
+👫	homem e mulher de mãos dadas
+👬	dois homens de mãos dadas
+👭	duas mulheres de mãos dadas
+💏	beijo
+👩‍❤️‍💋‍👨	beijo: mulher, homem
+👩‍❤‍💋‍👨	beijo: mulher, homem
+👨‍❤️‍💋‍👨	beijo: cara, cara
+👨‍❤‍💋‍👨	beijo: cara, cara
+👩‍❤️‍💋‍👩	beijo: mulher, mulher
+👩‍❤‍💋‍👩	beijo: mulher, mulher
+💑	casal com coração
+👩‍❤️‍👨	casal com coração: mulher, homem
+👩‍❤‍👨	casal com coração: mulher, homem
+👨‍❤️‍👨	casal com coração: homem, homem
+👨‍❤‍👨	casal com coração: homem, homem
+👩‍❤️‍👩	casal com coração: mulher, mulher
+👩‍❤‍👩	casal com coração: mulher, mulher
+👪	família
+👨‍👩‍👦	família: homem, mulher, menino
+👨‍👩‍👧	família: homem, mulher, menina
+👨‍👩‍👧‍👦	família: homem, mulher, menina, menino
+👨‍👩‍👦‍👦	família: homem, mulher, menino, menino
+👨‍👩‍👧‍👧	família: homem, mulher, menina, menina
+👨‍👨‍👦	família: homem, homem, menino
+👨‍👨‍👧	família: homem, homem, menina
+👨‍👨‍👧‍👦	família: homem, homem, menina, menino
+👨‍👨‍👦‍👦	família: homem, homem, menino, menino
+👨‍👨‍👧‍👧	família: homem, homem, menina, menina
+👩‍👩‍👦	família: mulher, mulher, menino
+👩‍👩‍👧	família: mulher, mulher, menina
+👩‍👩‍👧‍👦	família: mulher, mulher, menina, menino
+👩‍👩‍👦‍👦	família: mulher, mulher, menino, menino
+👩‍👩‍👧‍👧	família: mulher, mulher, menina, menina
+👨‍👦	família: homem, menino
+👨‍👦‍👦	família: homem, menino, menino
+👨‍👧	família: homem, menina
+👨‍👧‍👦	família: homem, menina, menino
+👨‍👧‍👧	família: homem, menina, menina
+👩‍👦	família: mulher, menino
+👩‍👦‍👦	família: mulher, menino, menino
+👩‍👧	família: mulher, menina
+👩‍👧‍👦	familia: mulher, menina, menino
+👩‍👧‍👧	familia: mulher, menina, menina
+🤳	selfie
+🤳🏻	selfie: tom de pele claro
+🤳🏼	selfie: tom de pele claro médio
+🤳🏽	auto IE: Tom, diodo PE
+🤳🏾	selfie: tom de pele escuro médio
+🤳🏿	selfie: tom de pele escuro
+💪	bíceps flexionado
+💪🏻	bíceps flexionado: tom de pele claro
+💪🏼	bíceps flexionado: tom claro médio
+💪🏽	bíceps flexionado: pele tom médio
+💪🏾	bíceps flexionado: tom de pele escuro médio
+💪🏿	bíceps flexionado: tom de pele escuro
+🦵	perna
+🦵🏻	perna: tom de pele claro
+🦵🏼	perna: tom de pele claro médio
+🦵🏽	perna: tom de pele médio
+🦵🏾	perna: tom de pele escuro médio
+🦵🏿	perna: tom de pele escuro
+🦶	pé
+🦶🏻	pé: tom de pele claro
+🦶🏼	pé: tom de pele claro médio
+🦶🏽	pé: Tom, diodo PE
+🦶🏾	pé: tom de pele escuro médio
+🦶🏿	pé: tom de pele escuro
+👈	índice do backmao mão esquerda para a esquerda
+👈🏻	índice da mão do dorso apontando para a esquerda: tom de pele claro
+👈🏼	índice da mão traseira apontando para a esquerda: tom de pele claro médio
+👈🏽	índice da mão traseira apontando para a esquerda: tom de pele médio
+👈🏾	índice da mão traseira apontando para a esquerda: tom de pele escuro médio
+👈🏿	índice da mão do dorso apontando para a esquerda: tom de pele escuro
+👉	índice do backmao mão colocada para a direita
+👉🏻	índice da mão do dorso apontando para a direita: tom de pele claro
+👉🏼	índice da mão do dorso apontando para a direita: tom de pele claro médio
+👉🏽	índice da mão das costas apontando para a direita: tom de pele médio
+👉🏾	índice do dorso apontando para a direita: tom de pele escuro médio
+👉🏿	índice da mão do dorso apontando para a direita: tom de pele escuro
+☝️	índice legível para cima
+☝	índice legível para cima
+☝🏻	índice apontando para cima: tom de pele claro
+☝🏼	índice apontando para cima: tom de pele claro médio
+☝🏽	índice apontando para cima: tom de pele médio
+☝🏾	índice apontando para cima: tom de pele escuro médio
+☝🏿	índice apontando para cima: tom de pele escuro
+👆	índice de backmao mão para cima
+👆🏻	índice da mão do dorso apontando para cima: tom de pele claro
+👆🏼	índice da mão traseira apontando para cima: tom de pele claro médio
+👆🏽	índice da mão do dorso apontando para cima: tom de pele médio
+👆🏾	índice da mão traseira apontando para cima: tom de pele escuro médio
+👆🏿	índice da mão do dorso apontando para cima: tom de pele escuro
+🖕	dedo do meio
+🖕🏻	dedo médio: tom de pele claro
+🖕🏼	dedo médio: tom de pele claro médio
+🖕🏽	dedo médio: tom de pele médio
+🖕🏾	dedo médio: tom de pele escuro médio
+🖕🏿	dedo médio: tom de pele escuro
+👇	mão do índice backmao apontando para baixo
+👇🏻	costas, mão, índice apontando para baixo: tom de pele claro
+👇🏼	índice das mãos das costas apontando para baixo: tom de pele claro médio
+👇🏽	índice da mão traseira apontando para baixo: tom de pele médio
+👇🏾	índice da mão traseira apontando para baixo: tom de pele escuro médio
+👇🏿	índice da mão do dorso apontando para baixo: tom de pele escuro
+✌️	mão da vitória
+✌	mão da vitória
+✌🏻	mão da vitória: tom de pele claro
+✌🏼	mão da vitória: tom de pele claro médio
+✌🏽	mão da vitória: tom de pele médio
+✌🏾	mão da vitória: tom de pele escuro médio
+✌🏿	mão da vitória: escuro tom de pele
+🤞	dedos cruzados
+🤞🏻	dedos cruzados: tom claro de pele
+🤞🏼	dedos cruzados: tom medio claro de pele
+🤞🏽	dedos cruzados: tom medio de pele
+🤞🏾	dedos cruzados: tom escuro medio de pele
+🤞🏿	dedos cruzados: escuro tom de pele
+🖖	saudação vulcan
+🖖🏻	saudação vulcan: tom claro de pele
+🖖🏼	saudação vulcan: tom medio claro de pele
+🖖🏽	saudação vulcan: tom medio de pele
+🖖🏾	saudação vulcan: tom escuro medio de pele
+🖖🏿	saudação vulcan: escuro tom de pele
+🤘	símbolo de chifre
+🤘🏻	símbolo de chifre: tom claro de pele
+🤘🏼	símbolo de chifre: tom medio claro de pele
+🤘🏽	símbolo de chifre: tom medio de pele
+🤘🏾	símbolo de chifre: tom escuro medio de pele
+🤘🏿	símbolo de chifre: escuro tom de pele
+🤙	me liga mão
+🤙🏻	me liga mão: tom claro de pele
+🤙🏼	me liga mão: tom medio claro de pele
+🤙🏽	me liga mão: tom medio de pele
+🤙🏾	me liga mão: tom escuro medio de pele
+🤙🏿	me liga mão: escuro tom de pele
+🖐️	mao mão com dedos espalhados
+🖐	mao mão com dedos espalhados
+🖐🏻	mao mão com dedos espalhados: tom claro de pele
+🖐🏼	mao mão com dedos espalhados: tom medio claro de pele
+🖐🏽	mao mão com dedos espalhados: tom medio de pele
+🖐🏾	mao mão com dedos espalhados: tom escuro medio de pele
+🖐🏿	mao mão com dedos espalhados: escuro tom de pele
+✋	mão levantada
+✋🏻	mão levantada: tom de pele claro
+✋🏼	mão levantada: tom de pele claro médio
+✋🏽	mão levantada: tom de pele médio
+✋🏾	mão levantada: tom de pele escuro médio
+✋🏿	mão levantada: tom de pele escuro
+👌	Ok mão mão
+👌🏻	OK mão: tom de pele claro
+👌🏼	Mão OK: tom de pele claro médio
+👌🏽	Mão OK: tom de pele médio
+👌🏾	Mão OK: tom de pele escuro médio
+👌🏿	OK mão: tom de pele escuro
+👍	afirmativa
+👍🏻	polegar para cima: tom de pele claro
+👍🏼	polegar para cima: tom de pele claro médio
+👍🏽	polegar para cima: tom de pele médio
+👍🏾	polegar para cima: tom de pele escuro médio
+👍🏿	polegar para cima: tom de pele escuro
+👎	polegares para baixo
+👎🏻	polegares para baixo: tom de pele claro
+👎🏼	polegares para baixo: tom de pele claro médio
+👎🏽	polegares para baixo: tom de pele médio
+👎🏾	polegares para baixo: tom de pele escuro médio
+👎🏿	polegares para baixo: tom de pele escuro
+✊	punho levantado
+✊🏻	punho levantado: tom de pele claro
+✊🏼	punho levantado: light medium skin tone
+✊🏽	punho levantado: medium skin tone
+✊🏾	punho levantado: tom de pele escuro médio
+✊🏿	punho levantado: tom de pele escuro
+👊	punho que se aproxima
+👊🏻	punho que se aproxima: tom de pele claro
+👊🏼	punho que se aproxima: tom de pele claro médio
+👊🏽	punho que se aproxima: tom de pele médio
+👊🏾	punho que se aproxima: tom de pele escuro médio
+👊🏿	punho que se aproxima: tom de pele escuro
+🤛	esquerdo - punho virado
+🤛🏻	punho voltado para a esquerda: tom de pele claro
+🤛🏼	punho voltado para a esquerda: tom de pele claro médio
+🤛🏽	esquerdo - punho de frente: tom médio de pele
+🤛🏾	punho voltado para a esquerda: tom de pele escuro médio
+🤛🏿	punho voltado para a esquerda: tom de pele escuro
+🤜	direito - punho virado
+🤜🏻	punho voltado para a direita: tom de pele claro
+🤜🏼	punho voltado para a direita: tom de pele claro médio
+🤜🏽	punho voltado para a direita: tom de pele médio
+🤜🏾	punho voltado para a direita: tom de pele escuro médio
+🤜🏿	punho voltado para a direita: tom de pele escuro
+🤚	mão levantada para trás
+🤚🏻	dorso da mão levantada: tom de pele claro
+🤚🏼	dorso da mão levantada: tom de pele claro médio
+🤚🏽	dorso da mão levantada: tom de pele médio
+🤚🏾	dorso da mão levantada: tom de pele escuro médio
+🤚🏿	dorso da mão levantada: tom de pele escuro
+👋	mão acenando mão
+👋🏻	mão acenando: tom de pele claro
+👋🏼	mão acenando: tom de pele claro médio
+👋🏽	mão acenando: tom de pele médio
+👋🏾	mão acenando: tom de pele escuro médio
+👋🏿	mão acenando: tom de pele escuro
+🤟	amor - você gesticula
+🤟🏻	amor - você gesticula: tom de pele claro
+🤟🏼	amor - seu gesto: tom de pele claro médio
+🤟🏽	amor - você gesticula: tom de pele médio
+🤟🏾	amor - seu gesto: tom de pele escuro médio
+🤟🏿	amor - você gesticula: tom de pele escuro
+✍️	escrita à mão
+✍	escrita à mão
+✍🏻	escrita à mão: tom de pele claro
+✍🏼	escrita à mão: tom de pele claro médio
+✍🏽	escrita à mão: tom de pele médio
+✍🏾	escrita à mão: tom de pele escuro médio
+✍🏿	escrita à mão: tom de pele escuro
+👏	batendo palmas com as mãos
+👏🏻	batendo palmas: tom de pele claro
+👏🏼	batendo palmas: tom de pele claro médio
+👏🏽	batendo palmas: tom de pele médio
+👏🏾	batendo palmas: tom de pele escuro médio
+👏🏿	batendo palmas: tom de pele escuro
+👐	mãos abertas
+👐🏻	mãos abertas: tom de pele claro
+👐🏼	mãos abertas: tom de pele claro médio
+👐🏽	mãos abertas: tom de pele médio
+👐🏾	mãos abertas: tom de pele escuro médio
+👐🏿	mãos abertas: tom de pele escuro
+🙌	levantando as mãos
+🙌🏻	levantando as mãos: tom de pele claro
+🙌🏼	Levantar as mãos: tom de pele claro médio
+🙌🏽	levantando as mãos: tom de pele médio
+🙌🏾	Mãos levantadas: tom de pele escuro médio
+🙌🏿	levantando as mãos: tom de pele escuro
+🤲	palmas para cima
+🤲🏻	palmas para cima: tom de pele claro
+🤲🏼	palmas para cima: tom de pele claro médio
+🤲🏽	palmas para cima: tom de pele médio
+🤲🏾	palmas das mãos juntas: tom de pele escuro médio
+🤲🏿	palmas para cima: tom de pele escuro
+🙏	mãos postas
+🙏🏻	mãos postas: tom de pele claro
+🙏🏼	mãos postas: tom de pele claro médio
+🙏🏽	mãos postas: tom de pele médio
+🙏🏾	mãos postas: tom de pele escuro médio
+🙏🏿	mãos postas: tom de pele escuro
+🤝	aperto de mão
+💅	esmalte de unha
+💅🏻	esmalte: tom de pele claro
+💅🏼	esmalte: tom de pele claro médio
+💅🏽	Esmalte: tom de pele médio
+💅🏾	Esmalte: tom de pele meio escuro
+💅🏿	Esmalte: tom de pele escuro
+👂	orelha
+👂🏻	ouvido: tom de pele claro
+👂🏼	orelha: tom de pele claro médio
+👂🏽	orelha: tom de pele médio
+👂🏾	orelha: tom de pele escuro médio
+👂🏿	orelha: tom de pele escuro
+👃	nariz
+👃	nariz: tom de pele claro
+👃🏼	nariz: tom de pele claro médio
+👃🏽	nariz: tom de pele médio
+👃🏾	nariz: tom de pele escuro médio
+👃🏿	nariz: tom de pele escuro
+🦰	ruivo - cabelo
+🦱	cacheado - cabelo
+🦲	careca
+🦳	branco - cabelo
+👣	pegadas
+👀	olhos
+👁️	olho
+👁	olho
+👁️‍🗨️	olho de balão
+👁‍🗨️	olho de balão
+👁️‍🗨	olho de balão
+👁‍🗨	olho de balão
+🧠	cérebro
+🦴	osso
+🦷	dente
+👅	lingua língua
+👄	boca
+💋	marca de beijo
+💘	coração com seta
+❤️	coração vermelho
+❤	coração vermelho
+💓	coração batendo
+💔	coração partido
+💕	duas coracoes
+💖	coração brilhante
+💗	coração em crescimento
+💙	coração azul
+💚	coração verde
+💛	coração amarelo
+🧡	coração laranja
+💜	coração roxo
+🖤	​​coração preto
+💝	coração com fita
+💞	coracoes giratórias
+💟	decoração de coração
+❣️	exclamação de coração pesado
+❣	exclamação de coração pesado
+💌	carta de amor
+💤	zzz
+💢	símbolo de raiva símbolo
+💣	bomba
+💥	colisão
+💦	gotas suor
+💨	correndo para longe
+💫	tonto
+💬	balão de fala
+🗨️	balão de fala esquerdo
+🗨	balão de fala esquerdo
+🗯️	bolha de raiva certa
+🗯	bolha de raiva certa
+💭	balão de pensamento
+🕳️	buraco
+🕳	buraco
+👓	óculos
+🕶️	oculos de sol
+🕶	oculos de sol
+🥽	óculos de proteção
+🥼	jaleco
+👔	gravata
+👕	t - shirt
+👖	jeans
+🧣	lenço
+🧤	luvas
+🧥	casaco
+🧦	meias
+👗	vestido
+👘	quimono
+👙	biquíni
+👚	roupas de mulher
+👛	bolsa
+👜	mao mãobag
+👝	bolsa de embreagem
+🛍️	sacolas de compras
+🛍	sacolas de compras
+🎒	mochila escolar
+👞	sapato de homem
+👟	tênis de corrida
+🥾	bota de caminhada
+🥿	sapato raso de mulher
+👠	sapato de salto alto
+👡	sandália de mulher
+👢	bota de mulher
+👑	coroa
+👒	chapéu de mulher
+🎩	chapéu de cima
+🎓	limite de graduação
+🧢	limite de faturamento
+⛑️	resgatar o capacete do trabalhador
+⛑	resgatar o capacete do trabalhador
+📿	contas de oração
+💄	batom
+💍	anel
+💎	pedra preciosa
+🐵	rosto de macaco
+🐒	macaco
+🦍	gorila
+🐶	rosto de cachorro
+🐕	cachorro
+🐩	cocôdle
+🐺	rosto de lobo
+🦊	rosto de raposa
+🦝	guaxinim
+🐱	rosto de gato
+🐈	gato
+🦁	rosto de leão
+🐯	rosto de tigre
+🐅	tigre
+🐆	leopardo
+🐴	rosto de cavalo
+🐎	cavalo
+🦄	rosto de unicórnio
+🦓	zebra
+🦌	cervo
+🐮	rosto de vaca
+🐂	boi
+🐃	búfalo de água
+🐄	vaca
+🐷	rosto de porco
+🐖	porco
+🐗	javali
+🐽	porco nariz
+🐏	ram
+🐑	ovelha
+🐐	cabra
+🐪	camelo
+🐫	dois - camelo corcunda
+🦙	lhama
+🦒	girafa
+🐘	elefante
+🦏	rinoceronte
+🦛	hipopótamo
+🐭	rosto do mouse
+🐁	mouse
+🐀	rato
+🐹	rosto de hamster
+🐰	rosto de coelho
+🐇	coelho
+🐿️	esquilo
+🐿	esquilo
+🦔	ouriço
+🦇	morcego
+🐻	Urso rosto
+🐨	coala
+🐼	panda rosto
+🦘	canguru
+🦡	texugo
+🐾	pegadas
+🦃	Peru
+🐔	frango
+🐓	galo
+🐣	chapéu de garota
+🐤	pintinho
+🐥	pintinho de frente
+🐦	pássaro
+🐧	pinguim
+🕊️	Cadê
+🕊	Cadê
+🦅	Águia
+🦆	Pato
+🦢	cisne
+🦉	coruja
+🦚	pavão
+🦜	papagaio
+🐸	frog face
+🐊	crocodilo
+🐢	tartaruga
+🦎	lagarto
+🐍	serpente
+🐲	dragon face
+🐉	Dragão
+🦕	saurópode
+🦖	T - Rex
+🐳	baleia jorrando
+🐋	baleia
+🐬	golfinho
+🐟	peixe
+🐠	peixe tropical
+🐡	baiacu
+🦈	Tubarão
+🐙	polvo
+🐚	concha em espiral
+🦀	caranguejo
+🦞	lagosta
+🦐	camarão
+🦑	Lula
+🐌	Caracol
+🦋	masterfly
+🐛	erro
+🐜	formiga
+🐝	abelha
+🐞	joaninha
+🦗	Grilo
+🕷️	aranha
+🕷	aranha
+🕸️	teia de aranha
+🕸	teia de aranha
+🦂	escorpião
+🦟	mosquito
+🦠	micróbio
+💐	ramalhete
+🌸	Flor de cerejeira
+💮	Flor branca
+🏵️	roseta
+🏵	roseta
+🌹	rosa
+🥀	flor murcha
+🌺	hibisco
+🌻	girassol
+🌼	Flor
+🌷	tulipa
+🌱	plantinha
+🌲	árvore perene
+🌳	árvore de folhas secas
+🌴	Palmeira
+🌵	cacto
+🌾	arroz
+🌿	erva
+☘️	trevo
+☘	trevo
+🍀	trevo-de-quatro-folhas
+🍁	folha de Carvalho
+🍂	folha de queda
+🍃	folha agitando o vento
+🍇	uvas
+🍈	Melão
+🍉	Melancia
+🍊	tangerina
+🍋	limão
+🍌	banana
+🍍	abacaxi
+🥭	homemgo
+🍎	red apple
+🍏	maçã verde
+🍐	pera
+🍑	pêssego
+🍒	cerejas
+🍓	morango
+🥝	kiwi
+🍅	tomate
+🥥	coco
+🥑	abacate
+🍆	Berinjela
+🥔	batata
+🥕	cenoura
+🌽	milho de espiga
+🌶️	hot pepper
+🌶	hot pepper
+🥒	pepino
+🥬	folhas verdes
+🥦	brócolis
+🍄	cogumelo
+🥜	amendoim
+🌰	castanha
+🍞	pão
+🥐	crescente
+🥖	pão baguete
+🥨	pretzel
+🥯	bagel
+🥞	panbolos
+🧀	fatia de queijo
+🍖	carne com osso
+🍗	perna de frango
+🥩	corte de carne
+🥓	bacon
+🍔	Hamburger
+🍟	batatas fritas
+🍕	pizza
+🌭	hot dog
+🥪	sanduíche
+🌮	taco
+🌯	burrito
+🥙	pão achatado recheado
+🥚	ovo
+🍳	cozinhando
+🥘	panela rasa de comida
+🍲	pote de comida
+🥣	bowl with scocôn
+🥗	salada verde
+🍿	Pipoca
+🧂	sal
+🥫	canned food
+🍱	caixa de bento
+🍘	biscoito de arroz
+🍙	bola de arroz
+🍚	arroz cozido
+🍛	arroz com curry
+🍜	tigela fumegante
+🍝	espaguete
+🍠	batata doce assada
+🍢	Oden
+🍣	Sushi
+🍤	camarão frito
+🍥	fish bolo com redemoinho
+🥮	bolo da lua
+🍡	bolinho de massa
+🥟	bolinho de massa
+🥠	fortune cookie
+🥡	caixa de comida
+🍦	sorvete soft
+🍧	gelo raspado
+🍨	sorvete
+🍩	rosquinha
+🍪	bolacha
+🎂	aniversário do bolo
+🍰	shortbolo
+🧁	cupbolo
+🥧	torta
+🍫	chocolate bar
+🍬	doce
+🍭	pirulito
+🍮	creme
+🍯	pote de mel
+🍼	Mamadeira
+🥛	copo de leite
+☕	hot beverage
+🍵	teaxicara cupsem outlet mao mãole
+🍶	causa
+🍾	bottle with popping cork
+🍷	wine glass
+🍸	cocktail glass
+🍹	bebida tropical
+🍺	beer mug
+🍻	clinking beer mugs
+🥂	clinking de cópias
+🥃	tumbler cup
+🥤	cup cup with straw
+🥢	pauzinhos
+🍽️	fork and knife with plate
+🍽	fork and knife with plate
+🍴	garfo e faca
+🥄	Escócia
+🔪	faca de cozinha
+🏺	ânfora
+🌍	globo mostrando Europa - África
+🌎	globo mostrando as Américas
+🌏	globo mostrando Ásia - Austrália
+🌐	com meridianos do globo
+🗺️	mapa mundial
+🗺	mapa mundial
+🗾	mapa do japão
+🧭	bússola
+🏔️	montanha coberta de neve
+🏔	montanha coberta de neve
+⛰️	montanha
+⛰	montanha
+🌋	vulcão
+🗻	Monte Fuji
+🏕️	acampamento
+🏕	acampamento
+🏖️	praia com guarda-chuva
+🏖	praia com guarda-chuva
+🏜️	deserto
+🏜	deserto
+🏝️	ilha deserta
+🏝	ilha deserta
+🏞️	Parque Nacional
+🏞	Parque Nacional
+🏟️	estádio
+🏟	estádio
+🏛️	edifício clássico
+🏛	edifício clássico
+🏗️	construção civil
+🏗	construção civil
+🧱	tijolos
+🏘️	casas
+🏘	casas
+🏚️	casa abandonada
+🏚	casa abandonada
+🏠	casa
+🏡	casa com jardim
+🏢	Prédio comercial
+🏣	japonês agência dos Correios
+🏤	agência dos Correios
+🏥	hospital
+🏦	banco
+🏨	hotel
+🏩	amor hotel
+🏪	loja de conveniência
+🏫	escola
+🏬	loja de departamento
+🏭	trabalho
+🏯	castelo japonês
+🏰	castelo
+💒	Casamento
+🗼	Torre de Tóquio
+🗽	estátua da liberdade
+⛪	Igreja
+🕌	mesquita
+🕍	sinagoga
+⛩️	santuário de Xintoísmo
+⛩	santuário de Xintoísmo
+🕋	Kaaba
+⛲	fonte
+⛺	barraca
+🌁	nebuloso
+🌃	noite com estrelas
+🏙️	paisagem urbana
+🏙	paisagem urbana
+🌄	nascer do sol sobre as montanhas
+🌅	nascer do sol
+🌆	paisagem urbana ao entardecer
+🌇	pôr do sol
+🌉	ponte à noite
+♨️	fontes termais
+♨	fontes termais
+🌌	via Láctea
+🎠	cavalo de carrossel
+🎡	roda gigante
+🎢	montanha russa
+💈	poste de barbeiro
+🎪	tenda de circo
+🚂	locomotiva
+🚃	vagão de trem
+🚄	trem de alta velocidade
+🚅	trem-bala
+🚆	trem
+🚇	metro
+🚈	Veiculo Leve Sobre Trilhos
+🚉	estação
+🚊	eléctrico
+🚝	monotrilho
+🚞	ferrovia da montanha
+🚋	bonde
+🚌	ônibus
+🚍	ônibus que se aproxima
+🚎	trólebus
+🚐	mini onibus
+🚑	ambulância
+🚒	viatura de bombeiros
+🚓	carro de policia
+🚔	carro de polícia que se aproxima
+🚕	Táxi
+🚖	próximo táxi
+🚗	mobile car
+🚘	oncoming mobile car
+🚙	veículo utilitário esportivo
+🚚	Caminhão de entrega
+🚛	caminhão articulado
+🚜	trator
+🚲	bicicleta
+🛴	patinete
+🛹	skate
+🛵	motoneta
+🚏	ponto de ônibus
+🛣️	autoestrada
+🛣	autoestrada
+🛤️	ferrovia
+🛤	ferrovia
+🛢️	tambor de óleo
+🛢	tambor de óleo
+⛽	bomba de combustivel
+🚨	luz do carro da policia
+🚥	semáforo horizontal
+🚦	semáforo vertical
+🛑	stop symbol
+🚧	construção
+⚓	âncora
+⛵	barco a vela
+🛶	canoa
+🚤	lancha
+🛳️	navio de passageiros
+🛳	navio de passageiros
+⛴️	balsa
+⛴	balsa
+🛥️	barco a motor
+🛥	barco a motor
+🚢	navio
+✈️	avião
+✈	avião
+🛩️	small airplane
+🛩	small airplane
+🛫	partida de avião
+🛬	chegada de avião
+💺	assento
+🚁	helicóptero
+🚟	ferrovia de suspensão
+🚠	teleférico da montanha
+🚡	bonde aéreo
+🛰️	satélite
+🛰	satélite
+🚀	foguete
+🛸	pires fmentindo
+🛎️	sino do carregador
+🛎	sino do carregador
+🧳	bagagem
+⌛	 ampulheta pronta
+⏳	 ampulheta não feita
+⌚	 ver
+⏰	 despertador
+⏱️	 cronômetro
+⏱	 cronômetro
+⏲️	 relógio temporizador
+⏲	 relógio temporizador
+🕰️	relógio homemtelpiece
+🕰	relógio homemtelpiece
+🕛	doze horas
+🕧	doze trinta
+🕐	uma hora
+🕜	uma e meia
+🕑	duas horas
+🕝	duas a trinta
+🕒	três horas
+🕞	três - trinta
+🕓	quatro horas
+🕟	quatro e meia
+🕔	cinco horas
+🕠	cinco e meia
+🕕	seis horas
+🕡	seis e Meia
+🕖	sete horas
+🕢	sete e meia
+🕗	oito horas
+🕣	oito e meia
+🕘	nove horas
+🕤	nove e meia
+🕙	dez horas
+🕥	10:30
+🕚	onze horas
+🕦	onze e meia
+🌑	lua Nova
+🌒	lua crescente
+🌓	lua crescente
+🌔	lua crescente
+🌕	lua cheia
+🌖	lua minguante gibosa
+🌗	lua minguante
+🌘	lua crescente minguante
+🌙	lua crescente
+🌚	new moon face
+🌛	rosto de lua do primeiro quarto
+🌜	rosto de lua quarto minguante
+🌡️	termômetro
+🌡	termômetro
+☀️	Sol
+☀	Sol
+🌝	rosto de lua cheia
+🌞	sun with face
+⭐	 Estrela
+🌟	estrela brilhante
+🌠	estrela cadente
+☁️	nuvem
+☁	nuvem
+⛅	sol atrás da nuvem
+⛈️	cloud with lightning and rain
+⛈	cloud with lightning and rain
+🌤️	sol atrás da nuvem pequena
+🌤	sol atrás da nuvem pequena
+🌥️	sol atrás de grande nuvem
+🌥	sol atrás de grande nuvem
+🌦️	sol atrás de nuvem de chuva
+🌦	sol atrás de nuvem de chuva
+🌧️	nuvem com chuva
+🌧	nuvem com chuva
+🌨️	nuvem com neve
+🌨	nuvem com neve
+🌩️	nuvem com relâmpago
+🌩	nuvem com relâmpago
+🌪️	tornado
+🌪	tornado
+🌫️	névoa
+🌫	névoa
+🌬️	wind face
+🌬	wind face
+🌀	ciclone
+🌈	arco Iris
+🌂	closed umbrella
+☂️	guarda-chuva
+☂	guarda-chuva
+☔	guarda-chuva com gotas de chuva
+⛱️	guarda-chuva no chão
+⛱	guarda-chuva no chão
+⚡	alta voltagem
+❄️	floco de neve
+❄	floco de neve
+☃️	boneco de neve
+☃	boneco de neve
+⛄	boneco de neve sem neve
+☄️	cometa
+☄	cometa
+🔥	fogo
+💧	gotícula
+🌊	onda de água
+🎃	γασκ - ο - λαντερν
+🎄	árvore de Natal
+🎆	fogos de artifício
+🎇	faísca
+🧨	foguete
+✨	brilhos
+🎈	balão
+🎉	popper de festa
+🎊	bola de confete
+🎋	Tanabata
+🎍	decoração de pinho
+🎎	japanese japanese dolls
+🎏	serpentina de carpa
+🎐	carrilhão de vento
+🎑	cerimônia de observação da lua
+🧧	red envelope
+🎀	fita
+🎁	presente embrulhado
+🎗️	fita de lembrete
+🎗	fita de lembrete
+🎟️	ingressos de admissão
+🎟	ingressos de admissão
+🎫	bilhete
+🎖️	medalha militar
+🎖	medalha militar
+🏆	troféu
+🏅	medalha de esportes
+🥇	Medalha de 1o lugar
+🥈	Medalha de 2o lugar
+🥉	Medalha de 3o lugar
+⚽	bola de futebol
+⚾	beisebol
+🥎	softball
+🏀	basquetebol
+🏐	vôlei
+🏈	futebol americano
+🏉	futebol de rugby
+🎾	tênis
+🥏	disco fmentindo
+🎳	boliche
+🏏	jogo de críquete
+🏑	hóquei em campo
+🏒	Hockey no gelo
+🥍	lacrosse
+🏓	pingue-pongue
+🏸	badminton
+🥊	luva de boxe
+🥋	uniforme de artes marciais
+🥅	rede de golos
+⛳	buraco da bandeira
+⛸️	patins de gelo
+⛸	patins de gelo
+🎣	Vara de pescar
+🎽	camisa de corrida
+🎿	esquis
+🛷	depois de
+🥌	pedra de curling
+🎯	ataque direto
+🎱	bola 8 cocôl
+🔮	bola de cristal
+🧿	Amuleto Nazar
+🎮	video game
+🕹️	controle de video game
+🕹	controle de video game
+🎰	caça-níqueis
+🎲	dado do jogo
+🧩	quebra-cabeça
+🧸	urso Teddy
+♠️	terno de espada
+♠	terno de espada
+♥️	terno de coração
+♥	terno de coração
+♦️	terno de diamante
+♦	terno de diamante
+♣️	terno do clube
+♣	terno do clube
+♟️	peão de xadrez
+♟	peão de xadrez
+🃏	 palhaço
+🀄	 red dragon mahjong
+🎴	cartas de jogar de flores
+🎭	Artes performáticas
+🖼️	foto emoldurada
+🖼	foto emoldurada
+🎨	paleta de artista
+🧵	fio
+🧶	fio
+🔇	alto-falante mudo
+🔈	alto-falante baixo volume
+🔉	alto-falante volume médio
+🔊	alto-falante alto volume
+📢	Alto-falante
+📣	megafone
+📯	chifre postal
+🔔	Sino
+🔕	bell with slash
+🎼	pontuação musical
+🎵	nota musical
+🎶	notas musicais
+🎙️	microfone de estúdio
+🎙	microfone de estúdio
+🎚️	controle deslizante de nível
+🎚	controle deslizante de nível
+🎛️	botões de controle
+🎛	botões de controle
+🎤	microfone
+🎧	fone de ouvido
+📻	rádio
+🎷	saxofone
+🎸	guitarra
+🎹	teclado musical
+🎺	trompete
+🎻	violino
+🥁	tambor
+📱	mobile mobile phone
+📲	mobile mobile phone with arrow
+☎️	Telefone
+☎	Telefone
+📞	receptor de telefone
+📟	pager
+📠	maquina de fax
+🔋	bateria
+🔌	tomada elétrica
+💻	notebook
+🖥️	computador desktop
+🖥	computador desktop
+🖨️	impressora
+🖨	impressora
+⌨️	 teclado
+⌨	 teclado
+🖱️	mouse de computador
+🖱	mouse de computador
+🖲️	trackball
+🖲	trackball
+💽	disco de computador
+💾	disquete
+💿	disco óptico
+📀	DVD
+🧮	ábaco
+🎥	câmera cinematográfica
+🎞️	quadros de filme
+🎞	quadros de filme
+📽️	Projetor de filme
+📽	Projetor de filme
+🎬	claquete
+📺	televisão
+📷	Câmera
+📸	camera with flash
+📹	câmera de vídeo
+📼	fitas de vídeo
+🔍	copo de aumento inclinado para a esquerda
+🔎	copo de aumento inclinado para a direita
+🕯️	vela
+🕯	vela
+💡	lâmpada
+🔦	lanterna
+🏮	red paper lantern
+📔	caderno com capa decorativa
+📕	closed book
+📖	abra o livro
+📗	livro verde
+📘	livro Azul
+📙	livro laranja
+📚	livros
+📓	caderno
+📒	livro-razão
+📃	curl page
+📜	rolagem
+📄	página voltada para cima
+📰	jornal
+🗞️	jornal enrolado
+🗞	jornal enrolado
+📑	guias de favoritos
+🔖	marca páginas
+🏷️	rótulo
+🏷	rótulo
+💰	money bag
+💴	nota de iene
+💵	nota de dólar
+💶	nota de euro
+💷	nota de libra
+💸	money with wings
+💳	cartão cvermelhoit
+🧾	recibo
+💹	gráfico aumentando com iene
+💱	câmbio monetário
+💲	símbolo de dólar pesado
+✉️	envelope
+✉	envelope
+📧	o email
+📨	envelope de entrada
+📩	envelope com seta
+📤	bandeja de saída
+📥	bandeja da caixa de entrada
+📦	pacote
+📫	closed mailbox with raised flag
+📪	closed mailbox with low red flag
+📬	open mailbox with raised flag
+📭	abrir caixa de correio com bandeira lowevermelho
+📮	caixa postal
+🗳️	urna com voto
+🗳	urna com voto
+✏️	lápis
+✏	lápis
+✒️	bico preto
+✒	bico preto
+🖋️	caneta tinteiro
+🖋	caneta tinteiro
+🖊️	spray
+🖊	spray
+🖌️	pincel
+🖌	pincel
+🖍️	lápis
+🖍	lápis
+📝	memorando
+💼	pasta
+📁	older file
+📂	open file older
+🗂️	divisórias de cartão
+🗂	divisórias de cartão
+📅	calendário
+📆	calendário destacável
+🗒️	bloco de notas em espiral
+🗒	bloco de notas em espiral
+🗓️	calendário espiral
+🗓	calendário espiral
+📇	fichário
+📈	gráfico crescente
+📉	gráfico decrescente
+📊	gráfico de barras
+📋	prancheta
+📌	alfinete
+📍	alfinete redondo
+📎	clipe de papel
+🖇️	clipes de papel ligados
+🖇	clipes de papel ligados
+📏	régua reta
+📐	régua triangular
+✂️	tesouras
+✂	tesouras
+🗃️	caixa de arquivo de cartão
+🗃	caixa de arquivo de cartão
+🗄️	arquivo
+🗄	arquivo
+🗑️	cesta de lixo
+🗑	cesta de lixo
+🔒	trancado
+🔓	desbloqueado
+🔏	caneta trancada
+🔐	chave de comunicação bloqueada
+🔑	chave
+🗝️	old old key
+🗝	old old key
+🔨	martelo
+⛏️	escolher
+⛏	escolher
+⚒️	martelo e picareta
+⚒	martelo e picareta
+🛠️	martelo e chave
+🛠	martelo e chave
+🗡️	punhal
+🗡	punhal
+⚔️	espadas cruzadas
+⚔	espadas cruzadas
+🔫	pistola
+🏹	arco e flecha
+🛡️	escudo
+🛡	escudo
+🔧	chave inglesa
+🔩	porca é um parafuso
+⚙️	engrenagem
+⚙	engrenagem
+🗜️	braçadeira
+🗜	braçadeira
+⚖️	escala de equilíbrio
+⚖	escala de equilíbrio
+🔗	ligação
+⛓️	correntes
+⛓	correntes
+🧰	Caixa de ferramentas
+🧲	magnético
+⚗️	alambique
+⚗	alambique
+🧪	tubo de ensaio
+🧫	placa de Petri
+🧬	gota
+🔬	microscópio
+🔭	telescópio
+📡	antena de satélite
+💉	seringa
+💊	comprimido
+🚪	por
+🛏️	cama
+🛏	cama
+🛋️	sofá e abajur
+🛋	sofá e abajur
+🚽	banheiro
+🚿	chuveiro
+🛁	banheira
+🧴	frasco de loção
+🧷	pino de segurança
+🧹	vassoura
+🧺	cesta
+🧻	rolo de papel
+🧼	Sabonete
+🧽	esponja
+🧯	extintor de incêndio
+🛒	carrinho de compras
+🚬	cigarro
+⚰️	caixão
+⚰	caixão
+⚱️	urna funerária
+⚱	urna funerária
+🗿	Silêncio
+🏧	Símbolo ATM
+🚮	símbolo da lixeira
+🚰	água potável
+♿	símbolo do símbolo de cadeira de rodas
+🚹	quarto de homens
+🚺	banheiro feminino
+🚻	Banheiro
+🚼	baby symbol symbol
+🚾	armário de água
+🛂	controle de passaporte
+🛃	costumes
+🛄	reclamação de bagagem
+🛅	bagagem deixada
+⚠️	Atenção
+⚠	Atenção
+🚸	crianças cruzando
+⛔	Entrada proibida
+🚫	Entrada
+🚳	Proibido Bicicletas
+🚭	Proibido fumar
+🚯	não jogue lixo
+🚱	água não potável
+🚷	Proibido Pedestres
+📵	no mobile mobile phones
+🔞	ninguém com menos de dezoito anos
+☢️	radioativo
+☢	radioativo
+☣️	risco biológico
+☣	risco biológico
+⬆️	 seta para cima
+⬆	 seta para cima
+↗️	 para cima - seta para a direita
+↗	 para cima - seta para a direita
+➡️	seta direita
+➡	seta direita
+↘️	 para baixo - seta para a direita
+↘	 para baixo - seta para a direita
+⬇️	 seta para baixo
+⬇	 seta para baixo
+↙️	 baixo - seta para a esquerda
+↙	 baixo - seta para a esquerda
+⬅️	 seta esquerda
+⬅	 seta esquerda
+↖️	 para cima - seta para a esquerda
+↖	 para cima - seta para a esquerda
+↕️	 seta para cima - para baixo
+↕	 seta para cima - para baixo
+↔️	 esquerda - seta direita
+↔	 esquerda - seta direita
+↩️	 seta para a direita curvando para a esquerda
+↩	 seta para a direita curvando para a esquerda
+↪️	 seta esquerda curva para direita
+↪	 seta esquerda curva para direita
+⤴️	 seta direita curvada para cima
+⤴	 seta direita curvada para cima
+⤵️	 seta direita curvada para baixo
+⤵	 seta direita curvada para baixo
+🔃	setas verticais no sentido horário
+🔄	mastro de setas anti-horário
+🔙	Seta para trás
+🔚	Seta END
+🔛	EM! seta
+🔜	Seta em breve
+🔝	Seta para cima
+🛐	lugar de adoração
+⚛️	atom symbol symbol
+⚛	atom symbol symbol
+🕉️	E se
+🕉	E se
+✡️	David da estrela
+✡	David da estrela
+☸️	roda do dharma
+☸	roda do dharma
+☯️	yin e yang
+☯	yin e yang
+✝️	cruz latina
+✝	cruz latina
+☦️	cruz ortodoxa
+☦	cruz ortodoxa
+☪️	estrela e crescente
+☪	estrela e crescente
+☮️	peace symbol symbol
+☮	peace symbol symbol
+🕎	menorá
+🔯	estrela de seis pontas pontilhada
+♈	Áries
+♉	Touro
+♊	Gêmeos
+♋	Câncer
+♌	Leo
+♍	Virgem
+♎	livros
+♏	Escorpião
+♐	Sagitário
+♑	Capricórnio
+♒	Aquário
+♓	peixe
+⛎	Ophiuchus
+🔀	shuffle tracks maston
+🔁	repetir maston
+🔂	repetir maston único
+▶️	 jogar maston
+▶	 jogar maston
+⏩	 maston de avanço rápido
+⏭️	 próxima faixa maston
+⏭	 próxima faixa maston
+⏯️	 reproduzir ou pausar maston
+⏯	 reproduzir ou pausar maston
+◀️	 maston reverso
+◀	 maston reverso
+⏪	 maston reverso rápido
+⏮️	 última faixa maston
+⏮	 última faixa maston
+🔼	maston para cima
+⏫	 maston rápido
+🔽	maston para baixo
+⏬	 maston rápido
+⏸️	 pausar maston
+⏸	 pausar maston
+⏹️	 parar maston
+⏹	 parar maston
+⏺️	 mastro de registro
+⏺	 mastro de registro
+⏏️	 ejetar maston
+⏏	 ejetar maston
+🎦	cinema
+🔅	maston escuro
+🔆	maston brilhante
+📶	barras de antena
+📳	modo de vibração
+📴	mobile mobile phone off
+♀️	female symbol
+♀	female symbol
+♂️	male symbol
+♂	male symbol
+⚕️	símbolo de símbolo médico
+⚕	símbolo de símbolo médico
+♾️	infinity
+♾	infinity
+♻️	símbolo de reciclagem
+♻	símbolo de reciclagem
+⚜️	flor-de-lis
+⚜	flor-de-lis
+🔱	emblema do tridente
+📛	crachá com nome
+🔰	japanese japanese symbol symbol for beginner
+⭕	 grande círculo pesado
+✅	marca de seleção branca pesada
+☑️	urna com cheque
+☑	urna com cheque
+✔️	marca de verificação pesada
+✔	marca de verificação pesada
+✖️	multiplicação pesada x
+✖	multiplicação pesada x
+❌	marca de cruz
+❎	mastro de marca cruzada
+➕	símbolo mais pesado
+➖	símbolo de menos pesado
+➗	símbolo de divisão pesada
+➰	curly loop
+➿	double curly loop
+〽️	marca de alternância de parte
+〽	marca de alternância de parte
+✳️	oito - asterisco com raios
+✳	oito - asterisco com raios
+✴️	estrela de oito pontas
+✴	estrela de oito pontas
+❇️	brilhar
+❇	brilhar
+!!️	 ponto de exclamação duplo
+!!	 ponto de exclamação duplo
+!?️	 ponto de interrogação de exclamação
+!?	 ponto de interrogação de exclamação
+❓	ponto de interrogação
+❔	ponto de interrogação branco
+❕	ponto de exclamação branco
+❗	ponto de exclamação
+〰️	traço ondulado
+〰	traço ondulado
+©️	 direito autoral
+©	 direito autoral
+®️	 reddish
+®	 reddish
+TM️	 marca comercial
+TM	 marca comercial
+#️⃣	 tecla: #
+#⃣	 tecla: #
+*️⃣	 keycap: *
+*⃣	 keycap: *
+0️⃣	 keycap: 0
+0⃣	 keycap: 0
+1️⃣	 tecla: 1
+1⃣	 tecla: 1
+2️⃣	 tecla: 2
+2⃣	 tecla: 2
+3️⃣	 tecla: 3
+3⃣	 tecla: 3
+4️⃣	 tecla: 4
+4⃣	 tecla: 4
+5️⃣	 tecla: 5
+5⃣	 tecla: 5
+6️⃣	 tecla: 6
+6⃣	 tecla: 6
+7️⃣	 tecla: 7
+7⃣	 tecla: 7
+8️⃣	 tecla: 8
+8⃣	 tecla: 8
+9️⃣	 tecla: 9
+9⃣	 tecla: 9
+🔟	tecla: 10
+💯	pontos hundvermelho
+🔠	entrada latina maiúscula
+🔡	inserir letras latinas minúsculas
+🔢	números de entrada
+🔣	símbolos de entrada
+🔤	inserir letras latinas
+🅰️	 Um maston (tipo sanguíneo)
+🅰	 Um maston (tipo sanguíneo)
+🆎	 Maston AB (tipo sanguíneo)
+🅱️	 Maston B (tipo sanguíneo)
+🅱	 Maston B (tipo sanguíneo)
+🆑	 Maston CL
+🆒	 Maston COOL
+🆓	 Maston grátis
+i️	 em formação
+i	 em formação
+🆔	 Maston de identificação
+M️	 M circulado
+M	 M circulado
+🆕	 NOVO maston
+🆖	 Maston NG
+🅾️	 O maston (tipo sanguíneo)
+🅾	 O maston (tipo sanguíneo)
+🆗	 OK maston
+🅿️	 P maston
+🅿	 P maston
+🆘	 Maston SOS
+🆙	 ACIMA! maston
+🆚	 Maston VS
+ココ	 japanese japanese “here” maston
+サ️	 japanese japanese “service charge” maston
+サ	 japanese japanese “service charge” maston
+月️	 japanese japanese “monthly amount” maston
+月	 japanese japanese “monthly amount” maston
+有	 japanese japanese “not free de charge” maston
+指	 japanese japanese “reserved” maston
+得	 japanese japanese “bargain” maston
+割	 japanese japanese “discount” maston
+無	 japanese japanese “free of charge” maston
+禁	 japanese japanese “prohibited” maston
+可	 japanese japanese “acceptable” maston
+申	 japanese japanese “application” maston
+合	 japanese japanese “passing grade” maston
+空	 japanese japanese “vacancy” maston
+祝️	japanese japanese “congratulations” maston
+祝	japanese japanese “congratulations” maston
+秘️	japanese japanese “secret” maston
+秘	japanese japanese “secret” maston
+営	 japanese japanese “open for business” maston
+満	 japanese japanese “no vacancy” maston
+▪️	 small black square
+▪	 small black square
+▫️	 white small square
+▫	 white small square
+◻️	 white medium square
+◻	 white medium square
+◼️	 black medium square
+◼	 black medium square
+◽	 white medium - small square
+◾	 medium black - small square
+⬛	 black large square
+⬜	 white large square
+🔶	grande diamante laranja
+🔷	grande diamante azul
+🔸	small orange diamond
+🔹	small blue diamond
+🔺	red triangle pointed up
+🔻	red triangle pointed down
+💠	diamante com um ponto
+🔘	rádio maston
+🔲	black square maston
+🔳	white square maston
+⚪	círculo branco
+⚫	portanto, círculo
+🔴	red circle
+🔵	círculo azul
+🏁	red check flag
+🚩	bandeira triangular
+🎌	bandeiras cruzadas
+🏴	bandeira preta
+🏳️	bandeira branca
+🏳	bandeira branca
+🏳️‍🌈	bandeira do arco-íris
+🏳‍🌈	bandeira do arco-íris
+🏴‍☠️	bandeira pirata
+🏴‍☠	bandeira pirata
+🇦🇨	Ilha Ascensão
+🇦🇩	Andorra
+🇦🇪	Emirados Árabes Unidos
+🇦🇫	Afeganistão
+🇦🇬	Antigua e Barrabuda
+🇦🇮	Anguilla
+🇦🇱	Albânia
+🇦🇲	Armênia
+🇦🇴	Angola
+🇦🇶	Antártica
+🇦🇷	Argentina
+🇦🇸	Samoa Americana
+🇦🇹	Áustria
+🇦🇺	Austrália
+🇦🇼	Aruba
+🇦🇽	Ilhas Aland
+🇦🇿	Azerbaijão
+🇧🇦	Bósnia e Herzegovina
+🇧🇧	Barbados
+🇧🇩	Bangladesh
+🇧🇪	Bélgica
+🇧🇫	Burkina Faso
+🇧🇬	Bulgária
+🇧🇭	Bahrain
+🇧🇮	Burundi
+🇧🇯	Benin
+🇧🇱	São Bartolomeu
+🇧🇲	Bermudas
+🇧🇳	Brunei
+🇧🇴	Bolívia
+🇧🇶	Holanda caribenha
+🇧🇷	Brasil
+🇧🇸	Bahamas
+🇧🇹	Butão
+🇧🇻	Ilha Bouvet
+🇧🇼	Botswana
+🇧🇾	Bielo-Rússia
+🇧🇿	Belize
+🇨🇦	Canadá
+🇨🇨	Ilhas Cocos (Keeling)
+🇨🇩	Congo - Kinshasa
+🇨🇫	República Centro-Africana
+🇨🇬	Congo - Brazzaville
+🇨🇭	Suíça
+🇨🇮	Costa do Marfim
+🇨🇰	Ilhas Cook
+🇨🇱	Chile
+🇨🇲	Camarões
+🇨🇳	China
+🇨🇴	Colômbia
+🇨🇵	Ilha de Clipperton
+🇨🇷	Costa Rica
+🇨🇺	Cuba
+🇨🇻	cabo Verde
+🇨🇼	Curaçao
+🇨🇽	Ilha do Natal
+🇨🇾	Chipre
+🇨🇿	Czechia
+🇩🇪	Alemanha
+🇩🇬	Diego garcia
+🇩🇯	Djibouti
+🇩🇰	Dinamarca
+🇩🇲	Dominica
+🇩🇴	República Dominicana
+🇩🇿	Argélia
+🇪🇦	Ceuta e Melilla
+🇪🇨	Equador
+🇪🇪	Estônia
+🇪🇬	Egito
+🇪🇭	Saara Ocidental
+🇪🇷	Eritreia
+🇪🇸	Espanha
+🇪🇹	Etiópia
+🇪🇺	União Européia
+🇫🇮	Finlândia
+🇫🇯	Fiji
+🇫🇰	Ilhas Falkland
+🇫🇲	Micronésia
+🇫🇴	ilhas Faroe
+🇫🇷	França
+🇬🇦	Gabão
+🇬🇧	Reino Unido
+🇬🇩	Grenada
+🇬🇪	Georgia
+🇬🇫	Guiana Francesa
+🇬🇬	Guernsey
+🇬🇭	Gana
+🇬🇮	Gibraltar
+🇬🇱	Groenlândia
+🇬🇲	Gâmbia
+🇬🇳	Guiné
+🇬🇵	Guadalupe
+🇬🇶	Guiné Equatorial
+🇬🇷	Grécia
+🇬🇸	Geórgia do Sul e Ilhas Sandwich do Sul
+🇬🇹	Guatemala
+🇬🇺	Guam
+🇬🇼	Guiné - Bissau
+🇬🇾	Guiana
+🇭🇰	RAE de Hong Kong China
+🇭🇲	Ilhas Heard e McDonald
+🇭🇳	Honduras
+🇭🇷	Croácia
+🇭🇹	Haiti
+🇭🇺	Hungria
+🇮🇨	Ilhas Canárias
+🇮🇩	Indonésia
+🇮🇪	Irlanda
+🇮🇱	Israel
+🇮🇲	Isle of man
+🇮🇳	Índia
+🇮🇴	Território Britânico do Oceano Índico
+🇮🇶	Iraque
+🇮🇷	Irã
+🇮🇸	Islândia
+🇮🇹	Itália
+🇯🇪	Jersey
+🇯🇲	Jamaica
+🇯🇴	Jordânia
+🇯🇵	Japão
+🇰🇪	Quênia
+🇰🇬	Quirguistão
+🇰🇭	Camboja
+🇰🇮	Kiribati
+🇰🇲	Comores
+🇰🇳	São Cristóvão e Nevis
+🇰🇵	Coreia do Norte
+🇰🇷	Coreia do Sul
+🇰🇼	Kuwait
+🇰🇾	Ilhas Cayman
+🇰🇿	Cazaquistão
+🇱🇦	Laos
+🇱🇧	Líbano
+🇱🇨	St. Lucia
+🇱🇮	Liechtenstein
+🇱🇰	Sri Lanka
+🇱🇷	Libéria
+🇱🇸	Lesoto
+🇱🇹	Lituânia
+🇱🇺	Luxemburgo
+🇱🇻	Letônia
+🇱🇾	Líbia
+🇲🇦	Marrocos
+🇲🇨	Mônaco
+🇲🇩	Moldávia
+🇲🇪	Montenegro
+🇲🇫	São Martinho
+🇲🇬	Madagáscar
+🇲🇭	Ilhas Marshall
+🇲🇰	Macedonia
+🇲🇱	Mali
+🇲🇲	Mianmar (Birmânia)
+🇲🇳	Mongólia
+🇲🇴	Macau Sir China
+🇲🇵	Ilhas Marianas do Norte
+🇲🇶	Martinica
+🇲🇷	Mauritânia
+🇲🇸	Montserrat
+🇲🇹	Malta
+🇲🇺	Maurício
+🇲🇻	Maldivas
+🇲🇼	Malawi
+🇲🇽	México
+🇲🇾	Malásia
+🇲🇿	Moçambique
+🇳🇦	Namibia
+🇳🇨	Nova Caledônia
+🇳🇪	Níger
+🇳🇫	Ilha Norfolk
+🇳🇬	Nigéria
+🇳🇮	Nicarágua
+🇳🇱	Países Baixos
+🇳🇴	Noruega
+🇳🇵	Nepal
+🇳🇷	Nauru
+🇳🇺	Niue
+🇳🇿	Nova Zelândia
+🇴🇲	Omã
+🇵🇦	Panamá
+🇵🇪	Peru
+🇵🇫	Polinésia Francesa
+🇵🇬	Papua Nova Guiné
+🇵🇭	Filipinas
+🇵🇰	Paquistão
+🇵🇱	Polônia
+🇵🇲	São Pedro e Miquelon
+🇵🇳	Ilhas Pitcairn
+🇵🇷	Porto Rico
+🇵🇸	Territórios Palestinos
+🇵🇹	Portugal
+🇵🇼	Palau
+🇵🇾	Paraguai
+🇶🇦	Catar
+🇷🇪	Reunião
+🇷🇴	Romênia
+🇷🇸	Sérvia
+🇷🇺	Rússia
+🇷🇼	Ruanda
+🇸🇦	Arábia Saudita
+🇸🇧	Ilhas Salomão
+🇸🇨	Seychelles
+🇸🇩	Sudão
+🇸🇪	Suécia
+🇸🇬	Cingapura
+🇸🇭	Santa Helena
+🇸🇮	Eslovênia
+🇸🇯	Svalbard e eu
+🇸🇰	Eslováquia
+🇸🇱	Serra Leoa
+🇸🇲	San Marino
+🇸🇳	Senegal
+🇸🇴	Somália
+🇸🇷	Suriname
+🇸🇸	Sudão do Sul
+🇸🇹	Sao Tome & Principe
+🇸🇻	O salvador
+🇸🇽	St Martin
+🇸🇾	Síria
+🇸🇿	Suazilândia
+🇹🇦	Tristão da cunha
+🇹🇨	Ilhas Turks e Caicos
+🇹🇩	Chade
+🇹🇫	Territórios Franceses do Sul
+🇹🇬	Ir
+🇹🇭	Tailândia
+🇹🇯	Tajiquistão
+🇹🇰	Tokelau
+🇹🇱	Timor - Leste
+🇹🇲	Turcomenistão
+🇹🇳	Tunísia
+🇹🇴	Tonga
+🇹🇷	Peru
+🇹🇹	Trinidad e Tobago
+🇹🇻	Tuvalu
+🇹🇼	Taiwan
+🇹🇿	Tanzânia
+🇺🇦	Ucrânia
+🇺🇬	Uganda
+🇺🇲	PIOLHO. Ilhas Outmentindo
+🇺🇳	Nações Unidas
+🇺🇸	Estados Unidos
+🇺🇾	Uruguai
+🇺🇿	Uzbequistão
+🇻🇦	Cidade do Vaticano
+🇻🇨	São Vicente e Granadinas
+🇻🇪	Venezuela
+🇻🇬	Ilhas Virgens Britânicas
+🇻🇮	Ilhas Virgens Americanas
+🇻🇳	Vietnã
+🇻🇺	Vanuatu
+🇼🇫	Wallis e Futuna
+🇼🇸	Samoa
+🇽🇰	Kosovo
+🇾🇪	Iémen
+🇾🇹	perdido
+🇿🇦	África do Sul
+🇿🇲	Zâmbia
+🇿🇼	Zimbábue
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	Inglaterra
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	Escócia
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	Gales

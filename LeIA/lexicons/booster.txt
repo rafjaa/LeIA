@@ -34,7 +34,7 @@ surpreendentemente INCR
 tao INCR
 terrivelmente INCR
 tremendamente INCR
-tão INCR
+tão INCR
 algo DECR
 bem pouqinho DECR
 dificilmente DECR
