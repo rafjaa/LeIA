@@ -39,7 +39,7 @@ algo DECR
 bem pouqinho DECR
 dificilmente DECR
 escassamente DECR
-fracaemnte DECR
+fracamente DECR
 levemente DECR
 mais ou menos DECR
 muito pouco DECR
