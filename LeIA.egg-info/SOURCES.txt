@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+LeIA/__init__.py
+LeIA/leia.py
+LeIA.egg-info/PKG-INFO
+LeIA.egg-info/SOURCES.txt
+LeIA.egg-info/dependency_links.txt
+LeIA.egg-info/top_level.txt
