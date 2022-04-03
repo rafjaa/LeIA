@@ -7,6 +7,8 @@ com suporte para emojis e foco na análise de sentimentos de textos expressos em
 - mas funcional para textos de outros domínios.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = 'Rafael J. A. Almeida'
 __credits__ = ' Núcleo de Tecnologia da Informação (NTINF) da Universidade Federal de São João del-Rei - UFSJ'
+
+from .leia import SentimentIntensityAnalyzer, SentiText, negated, normalize, allcap_differential, scalar_inc_dec

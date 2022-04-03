@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='LeIA',
-    version='0.1.0',
+    version='0.1.1',
     description='LeIA (Léxico para Inferência Adaptada) é um fork do léxico e ferramenta para análise de sentimentos VADER (Valence Aware Dictionary and sEntiment Reasoner) adaptado para textos em português, com suporte para emojis e foco na análise de sentimentos de textos expressos em mídias sociais - mas funcional para textos de outros domínios.',
     url='https://github.com/rafjaa/LeIA',
     author='Rafael J. A. Almeida',
