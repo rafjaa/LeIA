@@ -2,6 +2,19 @@
 
 LeIA (Léxico para Inferência Adaptada) é um fork do léxico e ferramenta para análise de sentimentos <a href="https://github.com/cjhutto/vaderSentiment">VADER</a> (Valence Aware Dictionary and sEntiment Reasoner) adaptado para textos em português, com suporte para emojis e foco na análise de sentimentos de textos expressos em mídias sociais - mas funcional para textos de outros domínios.
 
+Instalação
+-----------
+Utilizando anaconda-project:
+<pre>
+anaconda-project add-packages --pip git+https://github.com/rafjaa/LeIA.git@{{ version }}#egg=LeIA
+</pre>
+
+Utilizando pip:
+<pre>
+pip install git+https://github.com/rafjaa/LeIA.git@{{ version }}#egg=LeIA
+</pre>
+
+Substitua a versão pelo código da versão dispobilizada na seção **Releases**.
 
 Modo de uso
 -----------
