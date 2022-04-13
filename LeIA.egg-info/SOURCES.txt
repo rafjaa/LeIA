@@ -7,3 +7,7 @@ LeIA.egg-info/PKG-INFO
 LeIA.egg-info/SOURCES.txt
 LeIA.egg-info/dependency_links.txt
 LeIA.egg-info/top_level.txt
+LeIA/lexicons/booster.txt
+LeIA/lexicons/emoji_utf8_lexicon_ptbr.txt
+LeIA/lexicons/negate.txt
+LeIA/lexicons/vader_lexicon_ptbr.txt
