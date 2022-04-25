@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: LeIA
+Version: 0.1.2
+Summary: LeIA (Léxico para Inferência Adaptada) é um fork do léxico e ferramenta para análise de sentimentos VADER (Valence Aware Dictionary and sEntiment Reasoner) adaptado para textos em português, com suporte para emojis e foco na análise de sentimentos de textos expressos em mídias sociais - mas funcional para textos de outros domínios.
+Home-page: https://github.com/rafjaa/LeIA
+Author: Rafael J. A. Almeida
+Author-email: rafael@email.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: Published
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE.txt
+
+UNKNOWN
+
