@@ -344,7 +344,7 @@ class SentimentIntensityAnalyzer(object):
                     elif si > bi:
                         sentiments.pop(si)
                         sentiments.insert(si, sentiment * 1.5)
-            return sentiments
+        return sentiments
 
 
     @staticmethod
